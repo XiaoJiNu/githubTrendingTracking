@@ -118,5 +118,155 @@
     "today_stars": "",
     "category": "移动开发",
     "date": "2026-10-15"
+  },
+  "MadsLorentzen/ai-job-search": {
+    "name": "MadsLorentzen/ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "lang": "Python",
+    "stars": "60,836",
+    "today_stars": "3,861 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "cloudflare/security-audit-skill": {
+    "name": "cloudflare/security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "lang": "JavaScript",
+    "stars": "34,385",
+    "today_stars": "1,712 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "stablyai/orca": {
+    "name": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca",
+    "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "lang": "TypeScript",
+    "stars": "99,872",
+    "today_stars": "1,565 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "DietrichGebert/ponytail": {
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "lang": "JavaScript",
+    "stars": "169,866",
+    "today_stars": "1,208 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "Comfy-Org/ComfyUI": {
+    "name": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "lang": "Python",
+    "stars": "140,849",
+    "today_stars": "1,206 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "ruvnet/ruflo": {
+    "name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "lang": "TypeScript",
+    "stars": "77,895",
+    "today_stars": "684 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "Graphify-Labs/graphify": {
+    "name": "Graphify-Labs/graphify",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "lang": "Python",
+    "stars": "130,355",
+    "today_stars": "802 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "anomalyco/opencode": {
+    "name": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "desc": "The open source coding agent.",
+    "lang": "TypeScript",
+    "stars": "219,017",
+    "today_stars": "1,240 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "msitarzewski/agency-agents": {
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "162,415",
+    "today_stars": "562 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "headroomlabs-ai/headroom": {
+    "name": "headroomlabs-ai/headroom",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "lang": "Python",
+    "stars": "76,802",
+    "today_stars": "549 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "anthropics/knowledge-work-plugins": {
+    "name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "lang": "Python",
+    "stars": "30,828",
+    "today_stars": "267 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-10-21"
+  },
+  "wshobson/agents": {
+    "name": "wshobson/agents",
+    "url": "https://github.com/wshobson/agents",
+    "desc": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+    "lang": "Python",
+    "stars": "41,284",
+    "today_stars": "93 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "sickn33/agentic-awesome-skills": {
+    "name": "sickn33/agentic-awesome-skills",
+    "url": "https://github.com/sickn33/agentic-awesome-skills",
+    "desc": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+    "lang": "Python",
+    "stars": "48,133",
+    "today_stars": "83 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "shiyu-coder/Kronos": {
+    "name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "lang": "Python",
+    "stars": "42,389",
+    "today_stars": "733 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
+  },
+  "vllm-project/vllm": {
+    "name": "vllm-project/vllm",
+    "url": "https://github.com/vllm-project/vllm",
+    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "lang": "Python",
+    "stars": "94,474",
+    "today_stars": "128 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-21"
   }
 }

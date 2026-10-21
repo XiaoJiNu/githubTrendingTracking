@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-10-15
+### 最新一期 · 2026-10-21
 
-- [morluto/rea](https://github.com/morluto/rea) — 用 Agent 逆向一切：从应用行为到原生二进制
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — 开源、全本地的 ElevenLabs 替代品：声音克隆、配音、听写、转录，支持 646 种语言
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) — AI 编程 Agent 的上下文窗口优化：工具输出沙箱化（减少 98%）、会话记忆持久化，通过 MCP 覆盖 17 个平台
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — 把任意 AI Agent 变成 AI 科学家：177 个验证过的技能 + 100+ 科学数据库
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — CLI-Anything：让所有软件都能被 Agent 原生操作
-- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) — 独立审计 AI Agent：120 秒内回答「Agent 是否在做该做的事」
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) — Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本
-- [rust-lang/rust](https://github.com/rust-lang/rust) — Rust 语言主仓库：让每个人都能构建可靠、高效的软件
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) — WinUI 应用，用于构建精简、定制化的 Windows 11 镜像
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 全自动 AI Agent 系统，可执行复杂的渗透测试任务
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- [stablyai/orca](https://github.com/stablyai/orca) — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
-> 完整 Top 12 见 [当日日报](daily/2026-10-15.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 15 见 [当日日报](daily/2026-10-21.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）
