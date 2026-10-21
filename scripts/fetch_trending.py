@@ -58,8 +58,11 @@ def fetch_trending():
     repos = []
     for row in soup.select("article.Box-row")[:TOP_N]:
         a = row.select_one("h2 a")
-        full_name = "/".join(a.get_text(strip=True).split())
         url = "https://github.com" + a["href"]
+        # 优先用链接路径解析 owner/name：锚点文本含图标节点，直接取文本会出现 "owner//name"
+        path_parts = [p for p in a["href"].strip("/").split("/") if p]
+        full_name = "/".join(path_parts[:2]) if len(path_parts) >= 2 \
+            else "/".join(p for p in a.get_text(strip=True).split() if p)
         desc_tag = row.select_one("p")
         desc = desc_tag.get_text(strip=True) if desc_tag else "（无简介）"
         lang_tag = row.select_one('[itemprop="programmingLanguage"]')
