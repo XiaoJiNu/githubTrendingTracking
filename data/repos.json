@@ -134,40 +134,40 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "lang": "JavaScript",
-    "stars": "34,385",
-    "today_stars": "1,712 stars today",
+    "stars": "37,176",
+    "today_stars": "2,012 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "stablyai/orca": {
     "name": "stablyai/orca",
     "url": "https://github.com/stablyai/orca",
     "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
     "lang": "TypeScript",
-    "stars": "99,872",
-    "today_stars": "1,565 stars today",
+    "stars": "101,666",
+    "today_stars": "1,541 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "DietrichGebert/ponytail": {
     "name": "DietrichGebert/ponytail",
     "url": "https://github.com/DietrichGebert/ponytail",
     "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "lang": "JavaScript",
-    "stars": "169,866",
-    "today_stars": "1,208 stars today",
+    "stars": "172,033",
+    "today_stars": "2,079 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "Comfy-Org/ComfyUI": {
     "name": "Comfy-Org/ComfyUI",
     "url": "https://github.com/Comfy-Org/ComfyUI",
     "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
     "lang": "Python",
-    "stars": "140,849",
-    "today_stars": "1,206 stars today",
+    "stars": "141,678",
+    "today_stars": "939 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "ruvnet/ruflo": {
     "name": "ruvnet/ruflo",
@@ -184,10 +184,10 @@
     "url": "https://github.com/Graphify-Labs/graphify",
     "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
     "lang": "Python",
-    "stars": "130,355",
-    "today_stars": "802 stars today",
+    "stars": "131,916",
+    "today_stars": "1,433 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "anomalyco/opencode": {
     "name": "anomalyco/opencode",
@@ -214,10 +214,10 @@
     "url": "https://github.com/headroomlabs-ai/headroom",
     "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
     "lang": "Python",
-    "stars": "76,802",
-    "today_stars": "549 stars today",
+    "stars": "77,369",
+    "today_stars": "474 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "anthropics/knowledge-work-plugins": {
     "name": "anthropics/knowledge-work-plugins",
@@ -254,19 +254,49 @@
     "url": "https://github.com/shiyu-coder/Kronos",
     "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
     "lang": "Python",
-    "stars": "42,389",
-    "today_stars": "733 stars today",
+    "stars": "42,943",
+    "today_stars": "575 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "vllm-project/vllm": {
     "name": "vllm-project/vllm",
     "url": "https://github.com/vllm-project/vllm",
     "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
     "lang": "Python",
-    "stars": "94,474",
-    "today_stars": "128 stars today",
+    "stars": "94,984",
+    "today_stars": "441 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "supabase/supabase": {
+    "name": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "lang": "TypeScript",
+    "stars": "113,138",
+    "today_stars": "504 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-22"
+  },
+  "twentyhq/twenty": {
+    "name": "twentyhq/twenty",
+    "url": "https://github.com/twentyhq/twenty",
+    "desc": "The open alternative to Salesforce, designed for AI.",
+    "lang": "TypeScript",
+    "stars": "59,339",
+    "today_stars": "112 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-22"
+  },
+  "akitaonrails/ai-memory": {
+    "name": "akitaonrails/ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "lang": "Rust",
+    "stars": "12,485",
+    "today_stars": "286 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-22"
   }
 }
