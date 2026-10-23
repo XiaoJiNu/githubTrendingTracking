@@ -2,19 +2,21 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（23）
+## 🤖 AI / 机器学习（25）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-10-22](daily/2026-10-22.md) |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-10-23](daily/2026-10-23.md) |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the… | [2026-10-23](daily/2026-10-23.md) |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and … | [2026-10-23](daily/2026-10-23.md) |
+| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedi… | [2026-10-23](daily/2026-10-23.md) |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic c… | [2026-10-23](daily/2026-10-23.md) |
+| [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Minecraft 启动器 Plain Craft Launcher（PCL）。 | [2026-10-23](daily/2026-10-23.md) |
 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. G… | [2026-10-22](daily/2026-10-22.md) |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the… | [2026-10-22](daily/2026-10-22.md) |
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and b… | [2026-10-22](daily/2026-10-22.md) |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and … | [2026-10-22](daily/2026-10-22.md) |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before th… | [2026-10-22](daily/2026-10-22.md) |
 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Mar… | [2026-10-22](daily/2026-10-22.md) |
 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving… | [2026-10-22](daily/2026-10-22.md) |
-| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedi… | [2026-10-22](daily/2026-10-22.md) |
 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | The open alternative to Salesforce, designed for AI. | [2026-10-22](daily/2026-10-22.md) |
 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Solution for long term memory for agent coding CLIs and to f… | [2026-10-22](daily/2026-10-22.md) |
 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | The job search that runs on your machine. AI job application… | [2026-10-21](daily/2026-10-21.md) |
@@ -40,7 +42,7 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for kno… | [2026-10-21](daily/2026-10-21.md) |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for kno… | [2026-10-23](daily/2026-10-23.md) |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust 语言主仓库：让每个人都能构建可靠、高效的软件 | [2026-10-15](daily/2026-10-15.md) |
 | [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | WinUI 应用，用于构建精简、定制化的 Windows 11 镜像 | [2026-10-15](daily/2026-10-15.md) |
 
@@ -56,3 +58,10 @@
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | 跨平台 Xcode 替代品：在 Linux/Windows/macOS 上用 SwiftPM 构建部署 iOS 应用 | [2026-10-15](daily/2026-10-15.md) |
+
+## 📦 其他（2）
+
+| 仓库 | 一句话简介 | 上榜日期 |
+| --- | --- | --- |
+| [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | [2026-10-23](daily/2026-10-23.md) |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to … | [2026-10-23](daily/2026-10-23.md) |

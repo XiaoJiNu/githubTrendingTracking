@@ -134,10 +134,10 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "lang": "JavaScript",
-    "stars": "37,176",
-    "today_stars": "2,012 stars today",
+    "stars": "39,996",
+    "today_stars": "2,979 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "stablyai/orca": {
     "name": "stablyai/orca",
@@ -154,10 +154,10 @@
     "url": "https://github.com/DietrichGebert/ponytail",
     "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "lang": "JavaScript",
-    "stars": "172,033",
-    "today_stars": "2,079 stars today",
+    "stars": "173,834",
+    "today_stars": "1,948 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "Comfy-Org/ComfyUI": {
     "name": "Comfy-Org/ComfyUI",
@@ -184,10 +184,10 @@
     "url": "https://github.com/Graphify-Labs/graphify",
     "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
     "lang": "Python",
-    "stars": "131,916",
-    "today_stars": "1,433 stars today",
+    "stars": "133,216",
+    "today_stars": "1,408 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "anomalyco/opencode": {
     "name": "anomalyco/opencode",
@@ -224,10 +224,10 @@
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "lang": "Python",
-    "stars": "30,828",
-    "today_stars": "267 stars today",
+    "stars": "31,741",
+    "today_stars": "303 stars today",
     "category": "系统 / 底层",
-    "date": "2026-10-21"
+    "date": "2026-10-23"
   },
   "wshobson/agents": {
     "name": "wshobson/agents",
@@ -274,10 +274,10 @@
     "url": "https://github.com/supabase/supabase",
     "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
     "lang": "TypeScript",
-    "stars": "113,138",
-    "today_stars": "504 stars today",
+    "stars": "113,578",
+    "today_stars": "693 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "twentyhq/twenty": {
     "name": "twentyhq/twenty",
@@ -298,5 +298,45 @@
     "today_stars": "286 stars today",
     "category": "AI / 机器学习",
     "date": "2026-10-22"
+  },
+  "php/php-src": {
+    "name": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "desc": "The PHP Interpreter",
+    "lang": "C",
+    "stars": "41,286",
+    "today_stars": "287 stars today",
+    "category": "其他",
+    "date": "2026-10-23"
+  },
+  "fastapi/fastapi": {
+    "name": "fastapi/fastapi",
+    "url": "https://github.com/fastapi/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python",
+    "stars": "103,894",
+    "today_stars": "101 stars today",
+    "category": "其他",
+    "date": "2026-10-23"
+  },
+  "luongnv89/claude-howto": {
+    "name": "luongnv89/claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "lang": "Python",
+    "stars": "43,454",
+    "today_stars": "177 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-23"
+  },
+  "Meloong-Git/PCL": {
+    "name": "Meloong-Git/PCL",
+    "url": "https://github.com/Meloong-Git/PCL",
+    "desc": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+    "lang": "Visual Basic .NET",
+    "stars": "8,770",
+    "today_stars": "119 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-23"
   }
 }
