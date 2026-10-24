@@ -134,10 +134,10 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "lang": "JavaScript",
-    "stars": "39,996",
-    "today_stars": "2,979 stars today",
+    "stars": "42,485",
+    "today_stars": "2,716 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   "stablyai/orca": {
     "name": "stablyai/orca",
@@ -224,10 +224,10 @@
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "lang": "Python",
-    "stars": "31,741",
-    "today_stars": "303 stars today",
+    "stars": "32,332",
+    "today_stars": "635 stars today",
     "category": "系统 / 底层",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   "wshobson/agents": {
     "name": "wshobson/agents",
@@ -304,10 +304,10 @@
     "url": "https://github.com/php/php-src",
     "desc": "The PHP Interpreter",
     "lang": "C",
-    "stars": "41,286",
-    "today_stars": "287 stars today",
+    "stars": "41,597",
+    "today_stars": "716 stars today",
     "category": "其他",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   "fastapi/fastapi": {
     "name": "fastapi/fastapi",
@@ -338,5 +338,55 @@
     "today_stars": "119 stars today",
     "category": "AI / 机器学习",
     "date": "2026-10-23"
+  },
+  "NVIDIA/OpenShell": {
+    "name": "NVIDIA/OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "lang": "Rust",
+    "stars": "18,921",
+    "today_stars": "1,119 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-24"
+  },
+  "Renhuai123/ziwei-doushu": {
+    "name": "Renhuai123/ziwei-doushu",
+    "url": "https://github.com/Renhuai123/ziwei-doushu",
+    "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "lang": "TypeScript",
+    "stars": "7,002",
+    "today_stars": "546 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-24"
+  },
+  "SnailSploit/Claude-Red": {
+    "name": "SnailSploit/Claude-Red",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "lang": "Python",
+    "stars": "8,610",
+    "today_stars": "226 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-24"
+  },
+  "OpenBMB/VoxCPM": {
+    "name": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "lang": "Python",
+    "stars": "40,349",
+    "today_stars": "150 stars today",
+    "category": "其他",
+    "date": "2026-10-24"
+  },
+  "nodejs/node": {
+    "name": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "lang": "JavaScript",
+    "stars": "122,941",
+    "today_stars": "66 stars today",
+    "category": "Web 开发",
+    "date": "2026-10-24"
   }
 }

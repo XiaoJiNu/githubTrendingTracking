@@ -2,11 +2,14 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（25）
+## 🤖 AI / 机器学习（28）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-10-23](daily/2026-10-23.md) |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-10-24](daily/2026-10-24.md) |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | OpenShell is the safe, private runtime for autonomous AI age… | [2026-10-24](daily/2026-10-24.md) |
+| [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | [2026-10-24](daily/2026-10-24.md) |
+| [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | claude-red is a curated library of offensive security skills… | [2026-10-24](daily/2026-10-24.md) |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the… | [2026-10-23](daily/2026-10-23.md) |
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and … | [2026-10-23](daily/2026-10-23.md) |
 | [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedi… | [2026-10-23](daily/2026-10-23.md) |
@@ -38,11 +41,17 @@
 | --- | --- | --- |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本 | [2026-10-15](daily/2026-10-15.md) |
 
+## 🌐 Web 开发（1）
+
+| 仓库 | 一句话简介 | 上榜日期 |
+| --- | --- | --- |
+| [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-10-24](daily/2026-10-24.md) |
+
 ## ⚙️ 系统 / 底层（3）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for kno… | [2026-10-23](daily/2026-10-23.md) |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for kno… | [2026-10-24](daily/2026-10-24.md) |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust 语言主仓库：让每个人都能构建可靠、高效的软件 | [2026-10-15](daily/2026-10-15.md) |
 | [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | WinUI 应用，用于构建精简、定制化的 Windows 11 镜像 | [2026-10-15](daily/2026-10-15.md) |
 
@@ -59,9 +68,10 @@
 | --- | --- | --- |
 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | 跨平台 Xcode 替代品：在 Linux/Windows/macOS 上用 SwiftPM 构建部署 iOS 应用 | [2026-10-15](daily/2026-10-15.md) |
 
-## 📦 其他（2）
+## 📦 其他（3）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | [2026-10-23](daily/2026-10-23.md) |
+| [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | [2026-10-24](daily/2026-10-24.md) |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati… | [2026-10-24](daily/2026-10-24.md) |
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to … | [2026-10-23](daily/2026-10-23.md) |

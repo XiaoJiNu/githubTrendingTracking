@@ -8,19 +8,18 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-10-23
+### 最新一期 · 2026-10-24
 
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [php/php-src](https://github.com/php/php-src) — The PHP Interpreter
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-- [supabase/supabase](https://github.com/supabase/supabase) — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) — FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-- [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) — Minecraft 启动器 Plain Craft Launcher（PCL）。
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — OpenShell is the safe, private runtime for autonomous AI agents.
+- [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+- [nodejs/node](https://github.com/nodejs/node) — Node.js JavaScript runtime ✨🐢🚀✨
 
-> 完整 Top 9 见 [当日日报](daily/2026-10-23.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 8 见 [当日日报](daily/2026-10-24.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）
