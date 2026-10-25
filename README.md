@@ -8,18 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-10-24
+### 最新一期 · 2026-10-25
 
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- [php/php-src](https://github.com/php/php-src) — The PHP Interpreter
-- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — OpenShell is the safe, private runtime for autonomous AI agents.
-- [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-- [nodejs/node](https://github.com/nodejs/node) — Node.js JavaScript runtime ✨🐢🚀✨
+- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — The design language that makes your AI harness better at design.
+- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) — A Tiny biped duck robot 🦆
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) — 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
+- [makecindy/cindy](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
-> 完整 Top 8 见 [当日日报](daily/2026-10-24.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 10 见 [当日日报](daily/2026-10-25.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）

@@ -134,10 +134,10 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "lang": "JavaScript",
-    "stars": "42,485",
-    "today_stars": "2,716 stars today",
+    "stars": "45,066",
+    "today_stars": "2,264 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
   },
   "stablyai/orca": {
     "name": "stablyai/orca",
@@ -324,10 +324,10 @@
     "url": "https://github.com/luongnv89/claude-howto",
     "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
     "lang": "Python",
-    "stars": "43,454",
-    "today_stars": "177 stars today",
+    "stars": "44,694",
+    "today_stars": "392 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-23"
+    "date": "2026-10-25"
   },
   "Meloong-Git/PCL": {
     "name": "Meloong-Git/PCL",
@@ -344,10 +344,10 @@
     "url": "https://github.com/NVIDIA/OpenShell",
     "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
     "lang": "Rust",
-    "stars": "18,921",
-    "today_stars": "1,119 stars today",
+    "stars": "19,596",
+    "today_stars": "896 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
   },
   "Renhuai123/ziwei-doushu": {
     "name": "Renhuai123/ziwei-doushu",
@@ -388,5 +388,75 @@
     "today_stars": "66 stars today",
     "category": "Web 开发",
     "date": "2026-10-24"
+  },
+  "aws/agent-toolkit-for-aws": {
+    "name": "aws/agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "lang": "Python",
+    "stars": "3,193",
+    "today_stars": "13 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-25"
+  },
+  "Nutlope/hallmark": {
+    "name": "Nutlope/hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "lang": "CSS",
+    "stars": "32,407",
+    "today_stars": "455 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-25"
+  },
+  "pbakaus/impeccable": {
+    "name": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "desc": "The design language that makes your AI harness better at design.",
+    "lang": "Rust",
+    "stars": "86,605",
+    "today_stars": "619 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-25"
+  },
+  "pollen-robotics/microduck": {
+    "name": "pollen-robotics/microduck",
+    "url": "https://github.com/pollen-robotics/microduck",
+    "desc": "A Tiny biped duck robot 🦆",
+    "lang": "Rust",
+    "stars": "11,114",
+    "today_stars": "319 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-10-25"
+  },
+  "google-gemini/gemini-cli": {
+    "name": "google-gemini/gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "lang": "TypeScript",
+    "stars": "108,198",
+    "today_stars": "44 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-25"
+  },
+  "jbiaojerry/ebook-treasure-chest": {
+    "name": "jbiaojerry/ebook-treasure-chest",
+    "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+    "desc": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+    "lang": "Python",
+    "stars": "22,805",
+    "today_stars": "227 stars today",
+    "category": "学习资源",
+    "date": "2026-10-25"
+  },
+  "makecindy/cindy": {
+    "name": "makecindy/cindy",
+    "url": "https://github.com/makecindy/cindy",
+    "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "lang": "TypeScript",
+    "stars": "4,225",
+    "today_stars": "477 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-25"
   }
 }
