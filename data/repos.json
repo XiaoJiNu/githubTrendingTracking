@@ -14,10 +14,10 @@
     "url": "https://github.com/debpalash/VoiceStudio",
     "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "lang": "Python",
-    "stars": "87,278",
-    "today_stars": "1,592 stars today",
+    "stars": "89,761",
+    "today_stars": "2,297 stars today",
     "category": "开发工具",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "mksglu/context-mode": {
     "name": "mksglu/context-mode",
@@ -404,30 +404,30 @@
     "url": "https://github.com/Nutlope/hallmark",
     "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
     "lang": "CSS",
-    "stars": "34,338",
-    "today_stars": "1,317 stars today",
+    "stars": "37,001",
+    "today_stars": "2,244 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "pbakaus/impeccable": {
     "name": "pbakaus/impeccable",
     "url": "https://github.com/pbakaus/impeccable",
     "desc": "The design language that makes your AI harness better at design.",
     "lang": "Rust",
-    "stars": "87,999",
-    "today_stars": "1,092 stars today",
+    "stars": "89,475",
+    "today_stars": "1,506 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "pollen-robotics/microduck": {
     "name": "pollen-robotics/microduck",
     "url": "https://github.com/pollen-robotics/microduck",
     "desc": "A Tiny biped duck robot 🦆",
     "lang": "Rust",
-    "stars": "11,864",
-    "today_stars": "647 stars today",
+    "stars": "12,529",
+    "today_stars": "843 stars today",
     "category": "系统 / 底层",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "google-gemini/gemini-cli": {
     "name": "google-gemini/gemini-cli",
@@ -454,30 +454,30 @@
     "url": "https://github.com/makecindy/cindy",
     "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
     "lang": "TypeScript",
-    "stars": "5,206",
-    "today_stars": "675 stars today",
+    "stars": "6,791",
+    "today_stars": "1,296 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "TauricResearch/TradingAgents": {
     "name": "TauricResearch/TradingAgents",
     "url": "https://github.com/TauricResearch/TradingAgents",
     "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "lang": "Python",
-    "stars": "114,885",
-    "today_stars": "381 stars today",
+    "stars": "116,482",
+    "today_stars": "1,395 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "JetBrains/thinkrail": {
     "name": "JetBrains/thinkrail",
     "url": "https://github.com/JetBrains/thinkrail",
     "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
     "lang": "TypeScript",
-    "stars": "2,021",
-    "today_stars": "51 stars today",
+    "stars": "3,176",
+    "today_stars": "1,173 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "coollabsio/coolify": {
     "name": "coollabsio/coolify",
@@ -498,5 +498,75 @@
     "today_stars": "197 stars today",
     "category": "AI / 机器学习",
     "date": "2026-10-26"
+  },
+  "affaan-m/ECC": {
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "lang": "JavaScript",
+    "stars": "290,049",
+    "today_stars": "896 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-27"
+  },
+  "NVIDIA/SkillSpector": {
+    "name": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "desc": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+    "lang": "Python",
+    "stars": "22,410",
+    "today_stars": "214 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-27"
+  },
+  "nightly-labs/openbot": {
+    "name": "nightly-labs/openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "lang": "TypeScript",
+    "stars": "1,655",
+    "today_stars": "176 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-27"
+  },
+  "Panniantong/Agent-Reach": {
+    "name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "lang": "Python",
+    "stars": "104,017",
+    "today_stars": "746 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-27"
+  },
+  "gitroomhq/postiz-app": {
+    "name": "gitroomhq/postiz-app",
+    "url": "https://github.com/gitroomhq/postiz-app",
+    "desc": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "lang": "TypeScript",
+    "stars": "38,640",
+    "today_stars": "188 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-27"
+  },
+  "alchaincyf/huashu-design": {
+    "name": "alchaincyf/huashu-design",
+    "url": "https://github.com/alchaincyf/huashu-design",
+    "desc": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+    "lang": "HTML",
+    "stars": "27,195",
+    "today_stars": "251 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-27"
+  },
+  "multica-ai/andrej-karpathy-skills": {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "lang": "",
+    "stars": "224,872",
+    "today_stars": "638 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-27"
   }
 }
