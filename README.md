@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-10-27
+### 最新一期 · 2026-10-28
 
+- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) — （无简介）
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-- [makecindy/cindy](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — The design language that makes your AI harness better at design.
-- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) — A Tiny biped duck robot 🦆
 - [nightly-labs/openbot](https://github.com/nightly-labs/openbot) — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+- [makecindy/cindy](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) — 📨 The ultimate agentic social media scheduling tool 🤖
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 
-> 完整 Top 14 见 [当日日报](daily/2026-10-27.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 11 见 [当日日报](daily/2026-10-28.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）

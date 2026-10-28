@@ -2,20 +2,23 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（42）
+## 🤖 AI / 机器学习（45）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex… | [2026-10-27](daily/2026-10-27.md) |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at des… | [2026-10-27](daily/2026-10-27.md) |
-| [makecindy/cindy](https://github.com/makecindy/cindy) | Consider it done. The open-source AI agent that works out of… | [2026-10-27](daily/2026-10-27.md) |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex… | [2026-10-28](daily/2026-10-28.md) |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with poli… | [2026-10-28](daily/2026-10-28.md) |
+| [makecindy/cindy](https://github.com/makecindy/cindy) | Consider it done. The open-source AI agent that works out of… | [2026-10-28](daily/2026-10-28.md) |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises… | [2026-10-28](daily/2026-10-28.md) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, i… | [2026-10-28](daily/2026-10-28.md) |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | A local-first desktop workspace for persistent AI teammates.… | [2026-10-28](daily/2026-10-28.md) |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate agentic social media scheduling tool 🤖 | [2026-10-28](daily/2026-10-28.md) |
+| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | （无简介） | [2026-10-28](daily/2026-10-28.md) |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-10-28](daily/2026-10-28.md) |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | [2026-10-28](daily/2026-10-28.md) |
 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | [2026-10-27](daily/2026-10-27.md) |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises… | [2026-10-27](daily/2026-10-27.md) |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, i… | [2026-10-27](daily/2026-10-27.md) |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities… | [2026-10-27](daily/2026-10-27.md) |
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | A local-first desktop workspace for persistent AI teammates.… | [2026-10-27](daily/2026-10-27.md) |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & s… | [2026-10-27](daily/2026-10-27.md) |
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate agentic social media scheduling tool 🤖 | [2026-10-27](daily/2026-10-27.md) |
 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑… | [2026-10-27](daily/2026-10-27.md) |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, der… | [2026-10-27](daily/2026-10-27.md) |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-10-26](daily/2026-10-26.md) |
@@ -91,10 +94,11 @@
 | --- | --- | --- |
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术… | [2026-10-25](daily/2026-10-25.md) |
 
-## 📦 其他（3）
+## 📦 其他（4）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.… | [2026-10-28](daily/2026-10-28.md) |
 | [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | [2026-10-24](daily/2026-10-24.md) |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati… | [2026-10-24](daily/2026-10-24.md) |
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to … | [2026-10-23](daily/2026-10-23.md) |

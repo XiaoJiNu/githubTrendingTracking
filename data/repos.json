@@ -404,20 +404,20 @@
     "url": "https://github.com/Nutlope/hallmark",
     "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
     "lang": "CSS",
-    "stars": "37,001",
-    "today_stars": "2,244 stars today",
+    "stars": "39,444",
+    "today_stars": "2,830 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "pbakaus/impeccable": {
     "name": "pbakaus/impeccable",
     "url": "https://github.com/pbakaus/impeccable",
-    "desc": "The design language that makes your AI harness better at design.",
+    "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
     "lang": "Rust",
-    "stars": "89,475",
-    "today_stars": "1,506 stars today",
+    "stars": "90,972",
+    "today_stars": "1,449 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "pollen-robotics/microduck": {
     "name": "pollen-robotics/microduck",
@@ -454,10 +454,10 @@
     "url": "https://github.com/makecindy/cindy",
     "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
     "lang": "TypeScript",
-    "stars": "6,791",
-    "today_stars": "1,296 stars today",
+    "stars": "7,681",
+    "today_stars": "1,465 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "TauricResearch/TradingAgents": {
     "name": "TauricResearch/TradingAgents",
@@ -474,10 +474,10 @@
     "url": "https://github.com/JetBrains/thinkrail",
     "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
     "lang": "TypeScript",
-    "stars": "3,176",
-    "today_stars": "1,173 stars today",
+    "stars": "4,325",
+    "today_stars": "1,204 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "coollabsio/coolify": {
     "name": "coollabsio/coolify",
@@ -504,10 +504,10 @@
     "url": "https://github.com/affaan-m/ECC",
     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "lang": "JavaScript",
-    "stars": "290,049",
-    "today_stars": "896 stars today",
+    "stars": "291,110",
+    "today_stars": "1,165 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "NVIDIA/SkillSpector": {
     "name": "NVIDIA/SkillSpector",
@@ -524,10 +524,10 @@
     "url": "https://github.com/nightly-labs/openbot",
     "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
     "lang": "TypeScript",
-    "stars": "1,655",
-    "today_stars": "176 stars today",
+    "stars": "2,673",
+    "today_stars": "777 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "Panniantong/Agent-Reach": {
     "name": "Panniantong/Agent-Reach",
@@ -544,10 +544,10 @@
     "url": "https://github.com/gitroomhq/postiz-app",
     "desc": "📨 The ultimate agentic social media scheduling tool 🤖",
     "lang": "TypeScript",
-    "stars": "38,640",
-    "today_stars": "188 stars today",
+    "stars": "39,628",
+    "today_stars": "951 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "alchaincyf/huashu-design": {
     "name": "alchaincyf/huashu-design",
@@ -568,5 +568,45 @@
     "today_stars": "638 stars today",
     "category": "AI / 机器学习",
     "date": "2026-10-27"
+  },
+  "elayadesign/ai-design-skills": {
+    "name": "elayadesign/ai-design-skills",
+    "url": "https://github.com/elayadesign/ai-design-skills",
+    "desc": "（无简介）",
+    "lang": "",
+    "stars": "9,958",
+    "today_stars": "1,395 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-28"
+  },
+  "obra/superpowers": {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "306,691",
+    "today_stars": "617 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-28"
+  },
+  "HKUDS/DeepTutor": {
+    "name": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "desc": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+    "lang": "Python",
+    "stars": "46,552",
+    "today_stars": "1,598 stars today",
+    "category": "其他",
+    "date": "2026-10-28"
+  },
+  "togg53192-cmd/jailbreaks": {
+    "name": "togg53192-cmd/jailbreaks",
+    "url": "https://github.com/togg53192-cmd/jailbreaks",
+    "desc": "LIST OF ALL MY JAILBREAKS",
+    "lang": "",
+    "stars": "5,960",
+    "today_stars": "902 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-10-28"
   }
 }
