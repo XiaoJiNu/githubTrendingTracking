@@ -2,18 +2,21 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（48）
+## 🤖 AI / 机器学习（51）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with poli… | [2026-10-30](daily/2026-10-30.md) |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises… | [2026-10-30](daily/2026-10-30.md) |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | A local-first desktop workspace for persistent AI teammates.… | [2026-10-30](daily/2026-10-30.md) |
+| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | （无简介） | [2026-10-30](daily/2026-10-30.md) |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-10-30](daily/2026-10-30.md) |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | [2026-10-30](daily/2026-10-30.md) |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture… | [2026-10-30](daily/2026-10-30.md) |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their o… | [2026-10-30](daily/2026-10-30.md) |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents,… | [2026-10-30](daily/2026-10-30.md) |
 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex… | [2026-10-29](daily/2026-10-29.md) |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with poli… | [2026-10-29](daily/2026-10-29.md) |
 | [makecindy/cindy](https://github.com/makecindy/cindy) | Consider it done. The open-source AI agent that works out of… | [2026-10-29](daily/2026-10-29.md) |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises… | [2026-10-29](daily/2026-10-29.md) |
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | A local-first desktop workspace for persistent AI teammates.… | [2026-10-29](daily/2026-10-29.md) |
-| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | （无简介） | [2026-10-29](daily/2026-10-29.md) |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-10-29](daily/2026-10-29.md) |
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | [2026-10-29](daily/2026-10-29.md) |
 | [macro-inc/macro](https://github.com/macro-inc/macro) | Macro is a unified workspace for teams: email, chat, docs, t… | [2026-10-29](daily/2026-10-29.md) |
 | [expo/skills](https://github.com/expo/skills) | A collection of AI agent skills for working with Expo projec… | [2026-10-29](daily/2026-10-29.md) |
 | [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) | One has no future if one couldn't teach themself. | [2026-10-29](daily/2026-10-29.md) |
@@ -64,10 +67,11 @@
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🌐 Web 开发（2）
+## 🌐 Web 开发（3）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-10-30](daily/2026-10-30.md) |
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘… | [2026-10-29](daily/2026-10-29.md) |
 | [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-10-24](daily/2026-10-24.md) |
 
@@ -103,7 +107,7 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.… | [2026-10-29](daily/2026-10-29.md) |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.… | [2026-10-30](daily/2026-10-30.md) |
 | [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | [2026-10-24](daily/2026-10-24.md) |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati… | [2026-10-24](daily/2026-10-24.md) |
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to … | [2026-10-23](daily/2026-10-23.md) |
