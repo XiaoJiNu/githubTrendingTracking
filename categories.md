@@ -2,23 +2,27 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（51）
+## 🤖 AI / 机器学习（54）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with poli… | [2026-10-30](daily/2026-10-30.md) |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises… | [2026-10-30](daily/2026-10-30.md) |
+| [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | [2026-10-31](daily/2026-10-31.md) |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with poli… | [2026-10-31](daily/2026-10-31.md) |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises… | [2026-10-31](daily/2026-10-31.md) |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-10-31](daily/2026-10-31.md) |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | [2026-10-31](daily/2026-10-31.md) |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | Macro is a unified workspace for teams: email, chat, docs, t… | [2026-10-31](daily/2026-10-31.md) |
+| [expo/skills](https://github.com/expo/skills) | A collection of AI agent skills for working with Expo projec… | [2026-10-31](daily/2026-10-31.md) |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture… | [2026-10-31](daily/2026-10-31.md) |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their o… | [2026-10-31](daily/2026-10-31.md) |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-10-31](daily/2026-10-31.md) |
+| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | [2026-10-31](daily/2026-10-31.md) |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Lightpanda: the headless browser designed for AI and automat… | [2026-10-31](daily/2026-10-31.md) |
 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | A local-first desktop workspace for persistent AI teammates.… | [2026-10-30](daily/2026-10-30.md) |
 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | （无简介） | [2026-10-30](daily/2026-10-30.md) |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-10-30](daily/2026-10-30.md) |
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | [2026-10-30](daily/2026-10-30.md) |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture… | [2026-10-30](daily/2026-10-30.md) |
-| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their o… | [2026-10-30](daily/2026-10-30.md) |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents,… | [2026-10-30](daily/2026-10-30.md) |
 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex… | [2026-10-29](daily/2026-10-29.md) |
 | [makecindy/cindy](https://github.com/makecindy/cindy) | Consider it done. The open-source AI agent that works out of… | [2026-10-29](daily/2026-10-29.md) |
-| [macro-inc/macro](https://github.com/macro-inc/macro) | Macro is a unified workspace for teams: email, chat, docs, t… | [2026-10-29](daily/2026-10-29.md) |
-| [expo/skills](https://github.com/expo/skills) | A collection of AI agent skills for working with Expo projec… | [2026-10-29](daily/2026-10-29.md) |
 | [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) | One has no future if one couldn't teach themself. | [2026-10-29](daily/2026-10-29.md) |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, i… | [2026-10-28](daily/2026-10-28.md) |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate agentic social media scheduling tool 🤖 | [2026-10-28](daily/2026-10-28.md) |
@@ -28,7 +32,6 @@
 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑… | [2026-10-27](daily/2026-10-27.md) |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, der… | [2026-10-27](daily/2026-10-27.md) |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-10-26](daily/2026-10-26.md) |
-| [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | [2026-10-26](daily/2026-10-26.md) |
 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-… | [2026-10-26](daily/2026-10-26.md) |
 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic c… | [2026-10-25](daily/2026-10-25.md) |
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | OpenShell is the safe, private runtime for autonomous AI age… | [2026-10-25](daily/2026-10-25.md) |
@@ -67,11 +70,12 @@
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🌐 Web 开发（3）
+## 🌐 Web 开发（4）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-10-30](daily/2026-10-30.md) |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-10-31](daily/2026-10-31.md) |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | （无简介） | [2026-10-31](daily/2026-10-31.md) |
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘… | [2026-10-29](daily/2026-10-29.md) |
 | [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-10-24](daily/2026-10-24.md) |
 
@@ -107,7 +111,7 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.… | [2026-10-30](daily/2026-10-30.md) |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.… | [2026-10-31](daily/2026-10-31.md) |
 | [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | [2026-10-24](daily/2026-10-24.md) |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati… | [2026-10-24](daily/2026-10-24.md) |
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to … | [2026-10-23](daily/2026-10-23.md) |

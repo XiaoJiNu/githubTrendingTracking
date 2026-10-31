@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-10-30
+### 最新一期 · 2026-10-31
 
-- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-- [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Open-source Grok Bot alternative with a virtual machine that bots can use
-- [nightly-labs/openbot](https://github.com/nightly-labs/openbot) — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) — （无简介）
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Open-source Grok Bot alternative with a virtual machine that bots can use
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) — LIST OF ALL MY JAILBREAKS
+- [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+- [expo/skills](https://github.com/expo/skills) — A collection of AI agent skills for working with Expo projects and Expo Application Services
+- [macro-inc/macro](https://github.com/macro-inc/macro) — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory.
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — （无简介）
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 
-> 完整 Top 11 见 [当日日报](daily/2026-10-30.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 15 见 [当日日报](daily/2026-10-31.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）
