@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-11-01
+### 最新一期 · 2026-11-02
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory.
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — （无简介）
-- [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Open-source Grok Bot alternative with a virtual machine that bots can use
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) — Lightpanda: the headless browser designed for AI and automation
-- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — Kronos: A Foundation Model for the Language of Financial Markets
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — （无简介）
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Open-source Grok Bot alternative with a virtual machine that bots can use
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) — A collective list of free APIs
+- [cjpais/Handy](https://github.com/cjpais/Handy) — A free, open source, and extensible speech-to-text application that works completely offline.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [kornia/kornia](https://github.com/kornia/kornia) — 🐍 Geometric Computer Vision Library for Spatial AI
+- [beenuar/AiSOC](https://github.com/beenuar/AiSOC) — Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
 
-> 完整 Top 14 见 [当日日报](daily/2026-11-01.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 17 见 [当日日报](daily/2026-11-02.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）
