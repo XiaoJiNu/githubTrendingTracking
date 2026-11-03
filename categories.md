@@ -2,25 +2,32 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（62）
+## 🤖 AI / 机器学习（69）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Mar… | [2026-11-02](daily/2026-11-02.md) |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Mar… | [2026-11-03](daily/2026-11-03.md) |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture… | [2026-11-03](daily/2026-11-03.md) |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents,… | [2026-11-03](daily/2026-11-03.md) |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-03](daily/2026-11-03.md) |
+| [kornia/kornia](https://github.com/kornia/kornia) | 🐍 Geometric Computer Vision Library for Spatial AI | [2026-11-03](daily/2026-11-03.md) |
+| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken brings datacenter-scale model serving to your desk… | [2026-11-03](daily/2026-11-03.md) |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | [2026-11-03](daily/2026-11-03.md) |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything f… | [2026-11-03](daily/2026-11-03.md) |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | Run frontier MoE models on hardware you already own — pure C… | [2026-11-03](daily/2026-11-03.md) |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for… | [2026-11-03](daily/2026-11-03.md) |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | [2026-11-03](daily/2026-11-03.md) |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | [2026-11-03](daily/2026-11-03.md) |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship… | [2026-11-03](daily/2026-11-03.md) |
 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | [2026-11-02](daily/2026-11-02.md) |
 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | [2026-11-02](daily/2026-11-02.md) |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture… | [2026-11-02](daily/2026-11-02.md) |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their o… | [2026-11-02](daily/2026-11-02.md) |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents,… | [2026-11-02](daily/2026-11-02.md) |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Lightpanda: the headless browser designed for AI and automat… | [2026-11-02](daily/2026-11-02.md) |
 | [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text applicati… | [2026-11-02](daily/2026-11-02.md) |
-| [kornia/kornia](https://github.com/kornia/kornia) | 🐍 Geometric Computer Vision Library for Spatial AI | [2026-11-02](daily/2026-11-02.md) |
 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Open-source AI Security Operations Center: alert fusion, LLM… | [2026-11-02](daily/2026-11-02.md) |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent app… | [2026-11-02](daily/2026-11-02.md) |
-| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken brings datacenter-scale model serving to your desk… | [2026-11-02](daily/2026-11-02.md) |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with poli… | [2026-11-01](daily/2026-11-01.md) |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-11-01](daily/2026-11-01.md) |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-01](daily/2026-11-01.md) |
 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | Orkas is an open-source (MIT), local-first AI team for your … | [2026-11-01](daily/2026-11-01.md) |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Open Multi-Agent Interactive Classroom — Get an immersive, m… | [2026-11-01](daily/2026-11-01.md) |
 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free and open-source macOS menu bar toolkit. | [2026-11-01](daily/2026-11-01.md) |
@@ -83,8 +90,8 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | （无简介） | [2026-11-03](daily/2026-11-03.md) |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-11-02](daily/2026-11-02.md) |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | （无简介） | [2026-11-02](daily/2026-11-02.md) |
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘… | [2026-10-29](daily/2026-10-29.md) |
 | [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-10-24](daily/2026-10-24.md) |
 
@@ -92,8 +99,8 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic til… | [2026-11-03](daily/2026-11-03.md) |
 | [anomalyco/hex](https://github.com/anomalyco/hex) | Local voice dictation for mac, windows and linux | [2026-11-02](daily/2026-11-02.md) |
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic til… | [2026-11-02](daily/2026-11-02.md) |
 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | A Tiny biped duck robot 🦆 | [2026-10-27](daily/2026-10-27.md) |
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for kno… | [2026-10-24](daily/2026-10-24.md) |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust 语言主仓库：让每个人都能构建可靠、高效的软件 | [2026-10-15](daily/2026-10-15.md) |

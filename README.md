@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-11-02
+### 最新一期 · 2026-11-03
 
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — Computer use CLI for AI agents
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) — Lightpanda: the headless browser designed for AI and automation
-- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — Kronos: A Foundation Model for the Language of Financial Markets
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — （无简介）
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Open-source Grok Bot alternative with a virtual machine that bots can use
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) — A collective list of free APIs
-- [cjpais/Handy](https://github.com/cjpais/Handy) — A free, open source, and extensible speech-to-text application that works completely offline.
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) — Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) — FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — （无简介）
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — Kronos: A Foundation Model for the Language of Financial Markets
 - [kornia/kornia](https://github.com/kornia/kornia) — 🐍 Geometric Computer Vision Library for Spatial AI
-- [beenuar/AiSOC](https://github.com/beenuar/AiSOC) — Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) — Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-> 完整 Top 17 见 [当日日报](daily/2026-11-02.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 15 见 [当日日报](daily/2026-11-03.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）
