@@ -2,23 +2,25 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（69）
+## 🤖 AI / 机器学习（71）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Mar… | [2026-11-03](daily/2026-11-03.md) |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture… | [2026-11-03](daily/2026-11-03.md) |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents,… | [2026-11-03](daily/2026-11-03.md) |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-03](daily/2026-11-03.md) |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Mar… | [2026-11-04](daily/2026-11-04.md) |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture… | [2026-11-04](daily/2026-11-04.md) |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents,… | [2026-11-04](daily/2026-11-04.md) |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-04](daily/2026-11-04.md) |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | [2026-11-04](daily/2026-11-04.md) |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything f… | [2026-11-04](daily/2026-11-04.md) |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | A hierarchical inference engine for frontier MoE models: hot… | [2026-11-04](daily/2026-11-04.md) |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for… | [2026-11-04](daily/2026-11-04.md) |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship… | [2026-11-04](daily/2026-11-04.md) |
+| [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | （无简介） | [2026-11-04](daily/2026-11-04.md) |
+| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从… | [2026-11-04](daily/2026-11-04.md) |
 | [kornia/kornia](https://github.com/kornia/kornia) | 🐍 Geometric Computer Vision Library for Spatial AI | [2026-11-03](daily/2026-11-03.md) |
 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken brings datacenter-scale model serving to your desk… | [2026-11-03](daily/2026-11-03.md) |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | [2026-11-03](daily/2026-11-03.md) |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything f… | [2026-11-03](daily/2026-11-03.md) |
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | Run frontier MoE models on hardware you already own — pure C… | [2026-11-03](daily/2026-11-03.md) |
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for… | [2026-11-03](daily/2026-11-03.md) |
 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | [2026-11-03](daily/2026-11-03.md) |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | [2026-11-03](daily/2026-11-03.md) |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship… | [2026-11-03](daily/2026-11-03.md) |
 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | [2026-11-02](daily/2026-11-02.md) |
 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | [2026-11-02](daily/2026-11-02.md) |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their o… | [2026-11-02](daily/2026-11-02.md) |
@@ -99,8 +101,8 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [anomalyco/hex](https://github.com/anomalyco/hex) | Local voice dictation for mac, windows and linux | [2026-11-04](daily/2026-11-04.md) |
 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic til… | [2026-11-03](daily/2026-11-03.md) |
-| [anomalyco/hex](https://github.com/anomalyco/hex) | Local voice dictation for mac, windows and linux | [2026-11-02](daily/2026-11-02.md) |
 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | A Tiny biped duck robot 🦆 | [2026-10-27](daily/2026-10-27.md) |
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for kno… | [2026-10-24](daily/2026-10-24.md) |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust 语言主仓库：让每个人都能构建可靠、高效的软件 | [2026-10-15](daily/2026-10-15.md) |
@@ -125,10 +127,11 @@
 | --- | --- | --- |
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术… | [2026-10-25](daily/2026-10-25.md) |
 
-## 📦 其他（5）
+## 📦 其他（6）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alte… | [2026-11-04](daily/2026-11-04.md) |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | [2026-11-02](daily/2026-11-02.md) |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.… | [2026-11-01](daily/2026-11-01.md) |
 | [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | [2026-10-24](daily/2026-10-24.md) |
