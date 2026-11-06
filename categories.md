@@ -2,27 +2,30 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（77）
+## 🤖 AI / 机器学习（80）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-06](daily/2026-11-06.md) |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | [2026-11-06](daily/2026-11-06.md) |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything f… | [2026-11-06](daily/2026-11-06.md) |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for… | [2026-11-06](daily/2026-11-06.md) |
+| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从… | [2026-11-06](daily/2026-11-06.md) |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, g… | [2026-11-06](daily/2026-11-06.md) |
+| [scenario-labs/skills](https://github.com/scenario-labs/skills) | Get production-ready images, video, audio, and 3D from any A… | [2026-11-06](daily/2026-11-06.md) |
+| [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | [2026-11-06](daily/2026-11-06.md) |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | [2026-11-06](daily/2026-11-06.md) |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | [2026-11-06](daily/2026-11-06.md) |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture… | [2026-11-05](daily/2026-11-05.md) |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-05](daily/2026-11-05.md) |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | [2026-11-05](daily/2026-11-05.md) |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything f… | [2026-11-05](daily/2026-11-05.md) |
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for… | [2026-11-05](daily/2026-11-05.md) |
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, g… | [2026-11-05](daily/2026-11-05.md) |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This proje… | [2026-11-05](daily/2026-11-05.md) |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos … | [2026-11-05](daily/2026-11-05.md) |
 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | A 2.78-trillion-parameter Kimi K3 running inference on a sin… | [2026-11-05](daily/2026-11-05.md) |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 📡 Your own AI-powered news radar. Generates daily briefings … | [2026-11-05](daily/2026-11-05.md) |
-| [scenario-labs/skills](https://github.com/scenario-labs/skills) | Get production-ready images, video, audio, and 3D from any A… | [2026-11-05](daily/2026-11-05.md) |
 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Mar… | [2026-11-04](daily/2026-11-04.md) |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents,… | [2026-11-04](daily/2026-11-04.md) |
 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | A hierarchical inference engine for frontier MoE models: hot… | [2026-11-04](daily/2026-11-04.md) |
 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship… | [2026-11-04](daily/2026-11-04.md) |
 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | （无简介） | [2026-11-04](daily/2026-11-04.md) |
-| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从… | [2026-11-04](daily/2026-11-04.md) |
 | [kornia/kornia](https://github.com/kornia/kornia) | 🐍 Geometric Computer Vision Library for Spatial AI | [2026-11-03](daily/2026-11-03.md) |
 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken brings datacenter-scale model serving to your desk… | [2026-11-03](daily/2026-11-03.md) |
 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | [2026-11-03](daily/2026-11-03.md) |
@@ -96,11 +99,12 @@
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🌐 Web 开发（5）
+## 🌐 Web 开发（6）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tool… | [2026-11-05](daily/2026-11-05.md) |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tool… | [2026-11-06](daily/2026-11-06.md) |
+| [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web desi… | [2026-11-06](daily/2026-11-06.md) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | （无简介） | [2026-11-03](daily/2026-11-03.md) |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-11-02](daily/2026-11-02.md) |
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘… | [2026-10-29](daily/2026-10-29.md) |
@@ -136,12 +140,13 @@
 | --- | --- | --- |
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术… | [2026-10-25](daily/2026-10-25.md) |
 
-## 📦 其他（7）
+## 📦 其他（8）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alte… | [2026-11-05](daily/2026-11-05.md) |
-| [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | （无简介） | [2026-11-05](daily/2026-11-05.md) |
+| [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alte… | [2026-11-06](daily/2026-11-06.md) |
+| [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | （无简介） | [2026-11-06](daily/2026-11-06.md) |
+| [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | [2026-11-06](daily/2026-11-06.md) |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | [2026-11-02](daily/2026-11-02.md) |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.… | [2026-11-01](daily/2026-11-01.md) |
 | [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | [2026-10-24](daily/2026-10-24.md) |
