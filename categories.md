@@ -2,18 +2,20 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（80）
+## 🤖 AI / 机器学习（81）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-06](daily/2026-11-06.md) |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-11-07](daily/2026-11-07.md) |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-07](daily/2026-11-07.md) |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, g… | [2026-11-07](daily/2026-11-07.md) |
+| [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | [2026-11-07](daily/2026-11-07.md) |
+| [rails/rails](https://github.com/rails/rails) | Ruby on Rails | [2026-11-07](daily/2026-11-07.md) |
 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | [2026-11-06](daily/2026-11-06.md) |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything f… | [2026-11-06](daily/2026-11-06.md) |
 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for… | [2026-11-06](daily/2026-11-06.md) |
 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从… | [2026-11-06](daily/2026-11-06.md) |
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, g… | [2026-11-06](daily/2026-11-06.md) |
 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Get production-ready images, video, audio, and 3D from any A… | [2026-11-06](daily/2026-11-06.md) |
-| [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | [2026-11-06](daily/2026-11-06.md) |
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | [2026-11-06](daily/2026-11-06.md) |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | [2026-11-06](daily/2026-11-06.md) |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture… | [2026-11-05](daily/2026-11-05.md) |
@@ -58,7 +60,6 @@
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & s… | [2026-10-27](daily/2026-10-27.md) |
 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑… | [2026-10-27](daily/2026-10-27.md) |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, der… | [2026-10-27](daily/2026-10-27.md) |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-10-26](daily/2026-10-26.md) |
 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-… | [2026-10-26](daily/2026-10-26.md) |
 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic c… | [2026-10-25](daily/2026-10-25.md) |
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | OpenShell is the safe, private runtime for autonomous AI age… | [2026-10-25](daily/2026-10-25.md) |
@@ -87,10 +88,13 @@
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | CLI-Anything：让所有软件都能被 Agent 原生操作 | [2026-10-15](daily/2026-10-15.md) |
 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 独立审计 AI Agent：120 秒内回答「Agent 是否在做该做的事」 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🛠 开发工具（7）
+## 🛠 开发工具（10）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, mu… | [2026-11-07](daily/2026-11-07.md) |
+| [angular/angular](https://github.com/angular/angular) | Deliver web apps with confidence 🚀 | [2026-11-07](daily/2026-11-07.md) |
+| [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written … | [2026-11-07](daily/2026-11-07.md) |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other proc… | [2026-11-05](daily/2026-11-05.md) |
 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository started out as a learning in public project … | [2026-11-05](daily/2026-11-05.md) |
 | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansibl… | [2026-11-01](daily/2026-11-01.md) |
@@ -99,10 +103,12 @@
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🌐 Web 开发（6）
+## 🌐 Web 开发（8）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [react/react](https://github.com/react/react) | The library for web and native user interfaces. | [2026-11-07](daily/2026-11-07.md) |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | Visual Studio Code | [2026-11-07](daily/2026-11-07.md) |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tool… | [2026-11-06](daily/2026-11-06.md) |
 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web desi… | [2026-11-06](daily/2026-11-06.md) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | （无简介） | [2026-11-03](daily/2026-11-03.md) |
@@ -110,15 +116,19 @@
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘… | [2026-10-29](daily/2026-10-29.md) |
 | [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-10-24](daily/2026-10-24.md) |
 
-## ⚙️ 系统 / 底层（6）
+## ⚙️ 系统 / 底层（10）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software… | [2026-11-07](daily/2026-11-07.md) |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | The Prometheus monitoring system and time series database. | [2026-11-07](daily/2026-11-07.md) |
+| [nushell/nushell](https://github.com/nushell/nushell) | A new type of shell | [2026-11-07](daily/2026-11-07.md) |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | Distributed reliable key-value store for the most critical d… | [2026-11-07](daily/2026-11-07.md) |
+| [openssl/openssl](https://github.com/openssl/openssl) | General purpose TLS and crypto library | [2026-11-07](daily/2026-11-07.md) |
 | [anomalyco/hex](https://github.com/anomalyco/hex) | Local voice dictation for mac, windows and linux | [2026-11-04](daily/2026-11-04.md) |
 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic til… | [2026-11-03](daily/2026-11-03.md) |
 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | A Tiny biped duck robot 🦆 | [2026-10-27](daily/2026-10-27.md) |
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for kno… | [2026-10-24](daily/2026-10-24.md) |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | Rust 语言主仓库：让每个人都能构建可靠、高效的软件 | [2026-10-15](daily/2026-10-15.md) |
 | [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | WinUI 应用，用于构建精简、定制化的 Windows 11 镜像 | [2026-10-15](daily/2026-10-15.md) |
 
 ## 🔒 安全（2）
@@ -140,13 +150,15 @@
 | --- | --- | --- |
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术… | [2026-10-25](daily/2026-10-25.md) |
 
-## 📦 其他（8）
+## 📦 其他（10）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | [2026-11-07](daily/2026-11-07.md) |
+| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | [2026-11-07](daily/2026-11-07.md) |
+| [symfony/symfony](https://github.com/symfony/symfony) | The Symfony PHP framework | [2026-11-07](daily/2026-11-07.md) |
 | [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alte… | [2026-11-06](daily/2026-11-06.md) |
 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | （无简介） | [2026-11-06](daily/2026-11-06.md) |
-| [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | [2026-11-06](daily/2026-11-06.md) |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | [2026-11-02](daily/2026-11-02.md) |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.… | [2026-11-01](daily/2026-11-01.md) |
 | [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | [2026-10-24](daily/2026-10-24.md) |

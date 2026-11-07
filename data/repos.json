@@ -72,12 +72,12 @@
   "rust-lang/rust": {
     "name": "rust-lang/rust",
     "url": "https://github.com/rust-lang/rust",
-    "desc": "Rust 语言主仓库：让每个人都能构建可靠、高效的软件",
-    "lang": "",
-    "stars": "",
-    "today_stars": "",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust",
+    "stars": "121,526",
+    "today_stars": "192 stars today",
     "category": "系统 / 底层",
-    "date": "2026-10-15"
+    "date": "2026-11-07"
   },
   "ntdevlabs/tiny11builder": {
     "name": "ntdevlabs/tiny11builder",
@@ -134,10 +134,10 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "lang": "JavaScript",
-    "stars": "47,285",
-    "today_stars": "2,878 stars today",
+    "stars": "64,443",
+    "today_stars": "2,548 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-26"
+    "date": "2026-11-07"
   },
   "stablyai/orca": {
     "name": "stablyai/orca",
@@ -704,10 +704,10 @@
     "url": "https://github.com/mattpocock/skills",
     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
     "lang": "Shell",
-    "stars": "315,777",
-    "today_stars": "2,071 stars today",
+    "stars": "316,938",
+    "today_stars": "2,070 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   "pingdotgg/t3code": {
     "name": "pingdotgg/t3code",
@@ -964,10 +964,10 @@
     "url": "https://github.com/NVIDIA/auto-ontology",
     "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
     "lang": "Python",
-    "stars": "7,925",
-    "today_stars": "2,679 stars today",
+    "stars": "9,333",
+    "today_stars": "2,015 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   "github/spec-kit": {
     "name": "github/spec-kit",
@@ -1064,20 +1064,20 @@
     "url": "https://github.com/lz4/lz4",
     "desc": "Extremely Fast Compression algorithm",
     "lang": "C",
-    "stars": "12,474",
-    "today_stars": "23 stars today",
+    "stars": "12,648",
+    "today_stars": "315 stars today",
     "category": "其他",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   "google/skills": {
     "name": "google/skills",
     "url": "https://github.com/google/skills",
     "desc": "Agent Skills for Google products and technologies",
     "lang": "Python",
-    "stars": "22,530",
-    "today_stars": "211 stars today",
+    "stars": "22,954",
+    "today_stars": "534 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   "vercel-labs/agent-browser": {
     "name": "vercel-labs/agent-browser",
@@ -1108,5 +1108,125 @@
     "today_stars": "223 stars today",
     "category": "AI / 机器学习",
     "date": "2026-11-06"
+  },
+  "zed-industries/zed": {
+    "name": "zed-industries/zed",
+    "url": "https://github.com/zed-industries/zed",
+    "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "lang": "Rust",
+    "stars": "93,833",
+    "today_stars": "306 stars today",
+    "category": "开发工具",
+    "date": "2026-11-07"
+  },
+  "rails/rails": {
+    "name": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "desc": "Ruby on Rails",
+    "lang": "Ruby",
+    "stars": "59,058",
+    "today_stars": "142 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-07"
+  },
+  "mpv-player/mpv": {
+    "name": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "desc": "🎥 Command line media player",
+    "lang": "C",
+    "stars": "37,935",
+    "today_stars": "37 stars today",
+    "category": "其他",
+    "date": "2026-11-07"
+  },
+  "react/react": {
+    "name": "react/react",
+    "url": "https://github.com/react/react",
+    "desc": "The library for web and native user interfaces.",
+    "lang": "JavaScript",
+    "stars": "252,307",
+    "today_stars": "248 stars today",
+    "category": "Web 开发",
+    "date": "2026-11-07"
+  },
+  "angular/angular": {
+    "name": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "Deliver web apps with confidence 🚀",
+    "lang": "TypeScript",
+    "stars": "101,423",
+    "today_stars": "135 stars today",
+    "category": "开发工具",
+    "date": "2026-11-07"
+  },
+  "symfony/symfony": {
+    "name": "symfony/symfony",
+    "url": "https://github.com/symfony/symfony",
+    "desc": "The Symfony PHP framework",
+    "lang": "PHP",
+    "stars": "31,478",
+    "today_stars": "128 stars today",
+    "category": "其他",
+    "date": "2026-11-07"
+  },
+  "prometheus/prometheus": {
+    "name": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "desc": "The Prometheus monitoring system and time series database.",
+    "lang": "Go",
+    "stars": "67,241",
+    "today_stars": "148 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-11-07"
+  },
+  "microsoft/vscode": {
+    "name": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript",
+    "stars": "195,081",
+    "today_stars": "301 stars today",
+    "category": "Web 开发",
+    "date": "2026-11-07"
+  },
+  "nushell/nushell": {
+    "name": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust",
+    "stars": "41,022",
+    "today_stars": "131 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-11-07"
+  },
+  "etcd-io/etcd": {
+    "name": "etcd-io/etcd",
+    "url": "https://github.com/etcd-io/etcd",
+    "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "lang": "Go",
+    "stars": "52,643",
+    "today_stars": "128 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-11-07"
+  },
+  "openssl/openssl": {
+    "name": "openssl/openssl",
+    "url": "https://github.com/openssl/openssl",
+    "desc": "General purpose TLS and crypto library",
+    "lang": "C",
+    "stars": "31,333",
+    "today_stars": "26 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-11-07"
+  },
+  "astral-sh/ruff": {
+    "name": "astral-sh/ruff",
+    "url": "https://github.com/astral-sh/ruff",
+    "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+    "lang": "Rust",
+    "stars": "50,756",
+    "today_stars": "169 stars today",
+    "category": "开发工具",
+    "date": "2026-11-07"
   }
 }
