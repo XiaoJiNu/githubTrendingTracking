@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-11-07
+### 最新一期 · 2026-11-08
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
-- [rails/rails](https://github.com/rails/rails) — Ruby on Rails
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) — 🎥 Command line media player
-- [rust-lang/rust](https://github.com/rust-lang/rust) — Empowering everyone to build reliable and efficient software.
-- [react/react](https://github.com/react/react) — The library for web and native user interfaces.
-- [angular/angular](https://github.com/angular/angular) — Deliver web apps with confidence 🚀
-- [symfony/symfony](https://github.com/symfony/symfony) — The Symfony PHP framework
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) — The Prometheus monitoring system and time series database.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Browser automation CLI for AI agents
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [google/skills](https://github.com/google/skills) — Agent Skills for Google products and technologies
+- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory.
+- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
+- [meta/astryx](https://github.com/meta/astryx) — An open source design system that's fully customizable and agent ready
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) — The Prometheus monitoring system and time series database.
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Open-source Grok Bot alternative with a virtual machine that bots can use
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) — An extremely fast Python linter and code formatter, written in Rust.
 
-> 完整 Top 18 见 [当日日报](daily/2026-11-07.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 15 见 [当日日报](daily/2026-11-08.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）

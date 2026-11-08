@@ -134,10 +134,10 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "lang": "JavaScript",
-    "stars": "64,443",
-    "today_stars": "2,548 stars today",
+    "stars": "66,054",
+    "today_stars": "2,085 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   "stablyai/orca": {
     "name": "stablyai/orca",
@@ -664,10 +664,10 @@
     "url": "https://github.com/milind-soni/OpenMausBot",
     "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
     "lang": "TypeScript",
-    "stars": "10,844",
-    "today_stars": "922 stars today",
+    "stars": "17,325",
+    "today_stars": "1,955 stars today",
     "category": "Web 开发",
-    "date": "2026-11-02"
+    "date": "2026-11-08"
   },
   "thedotmack/claude-mem": {
     "name": "thedotmack/claude-mem",
@@ -704,10 +704,10 @@
     "url": "https://github.com/mattpocock/skills",
     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
     "lang": "Shell",
-    "stars": "316,938",
-    "today_stars": "2,070 stars today",
+    "stars": "317,949",
+    "today_stars": "1,100 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   "pingdotgg/t3code": {
     "name": "pingdotgg/t3code",
@@ -724,10 +724,10 @@
     "url": "https://github.com/anthropics/skills",
     "desc": "Public repository for Agent Skills",
     "lang": "Python",
-    "stars": "185,508",
-    "today_stars": "295 stars today",
+    "stars": "188,945",
+    "today_stars": "390 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-31"
+    "date": "2026-11-08"
   },
   "lightpanda-io/browser": {
     "name": "lightpanda-io/browser",
@@ -1074,20 +1074,20 @@
     "url": "https://github.com/google/skills",
     "desc": "Agent Skills for Google products and technologies",
     "lang": "Python",
-    "stars": "22,954",
-    "today_stars": "534 stars today",
+    "stars": "23,531",
+    "today_stars": "443 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   "vercel-labs/agent-browser": {
     "name": "vercel-labs/agent-browser",
     "url": "https://github.com/vercel-labs/agent-browser",
     "desc": "Browser automation CLI for AI agents",
     "lang": "Rust",
-    "stars": "46,112",
-    "today_stars": "150 stars today",
+    "stars": "47,026",
+    "today_stars": "190 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-06"
+    "date": "2026-11-08"
   },
   "ConardLi/garden-skills": {
     "name": "ConardLi/garden-skills",
@@ -1114,10 +1114,10 @@
     "url": "https://github.com/zed-industries/zed",
     "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
     "lang": "Rust",
-    "stars": "93,833",
-    "today_stars": "306 stars today",
+    "stars": "94,357",
+    "today_stars": "1,114 stars today",
     "category": "开发工具",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   "rails/rails": {
     "name": "rails/rails",
@@ -1174,10 +1174,10 @@
     "url": "https://github.com/prometheus/prometheus",
     "desc": "The Prometheus monitoring system and time series database.",
     "lang": "Go",
-    "stars": "67,241",
-    "today_stars": "148 stars today",
+    "stars": "67,491",
+    "today_stars": "322 stars today",
     "category": "系统 / 底层",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   "microsoft/vscode": {
     "name": "microsoft/vscode",
@@ -1224,9 +1224,69 @@
     "url": "https://github.com/astral-sh/ruff",
     "desc": "An extremely fast Python linter and code formatter, written in Rust.",
     "lang": "Rust",
-    "stars": "50,756",
-    "today_stars": "169 stars today",
+    "stars": "51,031",
+    "today_stars": "350 stars today",
     "category": "开发工具",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
+  },
+  "meta/astryx": {
+    "name": "meta/astryx",
+    "url": "https://github.com/meta/astryx",
+    "desc": "An open source design system that's fully customizable and agent ready",
+    "lang": "TypeScript",
+    "stars": "14,774",
+    "today_stars": "96 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-08"
+  },
+  "sherlock-project/sherlock": {
+    "name": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "Hunt down social media accounts by username across social networks",
+    "lang": "Python",
+    "stars": "101,119",
+    "today_stars": "1,766 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-11-08"
+  },
+  "tailwindlabs/tailwindcss": {
+    "name": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "TypeScript",
+    "stars": "98,575",
+    "today_stars": "122 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-08"
+  },
+  "mbillow/localthings": {
+    "name": "mbillow/localthings",
+    "url": "https://github.com/mbillow/localthings",
+    "desc": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+    "lang": "Python",
+    "stars": "1,101",
+    "today_stars": "186 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-11-08"
+  },
+  "ranxianglei/billion-context": {
+    "name": "ranxianglei/billion-context",
+    "url": "https://github.com/ranxianglei/billion-context",
+    "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "lang": "TypeScript",
+    "stars": "4,731",
+    "today_stars": "191 stars today",
+    "category": "Web 开发",
+    "date": "2026-11-08"
+  },
+  "dsx-ai-factory/nvke": {
+    "name": "dsx-ai-factory/nvke",
+    "url": "https://github.com/dsx-ai-factory/nvke",
+    "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+    "lang": "Go",
+    "stars": "619",
+    "today_stars": "123 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-08"
   }
 }
