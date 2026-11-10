@@ -2,16 +2,19 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（84）
+## 🤖 AI / 机器学习（87）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | [2026-11-10](daily/2026-11-10.md) |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | [2026-11-10](daily/2026-11-10.md) |
+| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and a… | [2026-11-10](daily/2026-11-10.md) |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) | Garry's Opinionated OpenClaw/Hermes Agent Brain | [2026-11-10](daily/2026-11-10.md) |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere… | [2026-11-10](daily/2026-11-10.md) |
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Configure and automate Home Assistant with Claude, ChatGPT, … | [2026-11-10](daily/2026-11-10.md) |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-11-08](daily/2026-11-08.md) |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-08](daily/2026-11-08.md) |
-| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | [2026-11-08](daily/2026-11-08.md) |
 | [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | [2026-11-08](daily/2026-11-08.md) |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | [2026-11-08](daily/2026-11-08.md) |
-| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and a… | [2026-11-08](daily/2026-11-08.md) |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | [2026-11-08](daily/2026-11-08.md) |
 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU … | [2026-11-08](daily/2026-11-08.md) |
 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, g… | [2026-11-07](daily/2026-11-07.md) |
@@ -95,13 +98,13 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial… | [2026-11-10](daily/2026-11-10.md) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, mu… | [2026-11-08](daily/2026-11-08.md) |
 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written … | [2026-11-08](daily/2026-11-08.md) |
 | [angular/angular](https://github.com/angular/angular) | Deliver web apps with confidence 🚀 | [2026-11-07](daily/2026-11-07.md) |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other proc… | [2026-11-05](daily/2026-11-05.md) |
 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository started out as a learning in public project … | [2026-11-05](daily/2026-11-05.md) |
 | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansibl… | [2026-11-01](daily/2026-11-01.md) |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial… | [2026-10-29](daily/2026-10-29.md) |
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alter… | [2026-10-27](daily/2026-10-27.md) |
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本 | [2026-10-15](daily/2026-10-15.md) |
@@ -110,7 +113,7 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-11-08](daily/2026-11-08.md) |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-11-10](daily/2026-11-10.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | A context-compression plugin for month-long single sessions … | [2026-11-08](daily/2026-11-08.md) |
 | [react/react](https://github.com/react/react) | The library for web and native user interfaces. | [2026-11-07](daily/2026-11-07.md) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | Visual Studio Code | [2026-11-07](daily/2026-11-07.md) |
@@ -120,12 +123,13 @@
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘… | [2026-10-29](daily/2026-10-29.md) |
 | [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-10-24](daily/2026-10-24.md) |
 
-## ⚙️ 系统 / 底层（12）
+## ⚙️ 系统 / 底层（13）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social ne… | [2026-11-10](daily/2026-11-10.md) |
+| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics… | [2026-11-10](daily/2026-11-10.md) |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | The Prometheus monitoring system and time series database. | [2026-11-08](daily/2026-11-08.md) |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social ne… | [2026-11-08](daily/2026-11-08.md) |
 | [mbillow/localthings](https://github.com/mbillow/localthings) | Control your Samsung appliances from Home Assistant over you… | [2026-11-08](daily/2026-11-08.md) |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software… | [2026-11-07](daily/2026-11-07.md) |
 | [nushell/nushell](https://github.com/nushell/nushell) | A new type of shell | [2026-11-07](daily/2026-11-07.md) |
@@ -156,10 +160,11 @@
 | --- | --- | --- |
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术… | [2026-10-25](daily/2026-10-25.md) |
 
-## 📦 其他（10）
+## 📦 其他（11）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | A collection of projects designed to help developers quickly… | [2026-11-10](daily/2026-11-10.md) |
 | [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | [2026-11-07](daily/2026-11-07.md) |
 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | [2026-11-07](daily/2026-11-07.md) |
 | [symfony/symfony](https://github.com/symfony/symfony) | The Symfony PHP framework | [2026-11-07](daily/2026-11-07.md) |

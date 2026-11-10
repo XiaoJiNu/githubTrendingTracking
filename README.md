@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-11-08
+### 最新一期 · 2026-11-10
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Browser automation CLI for AI agents
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- [google/skills](https://github.com/google/skills) — Agent Skills for Google products and technologies
-- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory.
 - [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
 - [meta/astryx](https://github.com/meta/astryx) — An open source design system that's fully customizable and agent ready
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) — The Prometheus monitoring system and time series database.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Open-source Grok Bot alternative with a virtual machine that bots can use
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) — An extremely fast Python linter and code formatter, written in Rust.
+- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) — Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+- [garrytan/gbrain](https://github.com/garrytan/gbrain) — Garry's Opinionated OpenClaw/Hermes Agent Brain
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Browser automation CLI for AI agents
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 
-> 完整 Top 15 见 [当日日报](daily/2026-11-08.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 11 见 [当日日报](daily/2026-11-10.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）
