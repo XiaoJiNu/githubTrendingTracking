@@ -2,18 +2,19 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（87）
+## 🤖 AI / 机器学习（88）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | [2026-11-10](daily/2026-11-10.md) |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | [2026-11-10](daily/2026-11-10.md) |
-| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and a… | [2026-11-10](daily/2026-11-10.md) |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-11](daily/2026-11-11.md) |
+| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | [2026-11-11](daily/2026-11-11.md) |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | [2026-11-11](daily/2026-11-11.md) |
+| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and a… | [2026-11-11](daily/2026-11-11.md) |
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Configure and automate Home Assistant with Claude, ChatGPT, … | [2026-11-11](daily/2026-11-11.md) |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | [2026-11-11](daily/2026-11-11.md) |
 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | Garry's Opinionated OpenClaw/Hermes Agent Brain | [2026-11-10](daily/2026-11-10.md) |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere… | [2026-11-10](daily/2026-11-10.md) |
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Configure and automate Home Assistant with Claude, ChatGPT, … | [2026-11-10](daily/2026-11-10.md) |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-11-08](daily/2026-11-08.md) |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-08](daily/2026-11-08.md) |
 | [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | [2026-11-08](daily/2026-11-08.md) |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | [2026-11-08](daily/2026-11-08.md) |
 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU … | [2026-11-08](daily/2026-11-08.md) |
@@ -109,12 +110,13 @@
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🌐 Web 开发（9）
+## 🌐 Web 开发（10）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | A context-compression plugin for month-long single sessions … | [2026-11-11](daily/2026-11-11.md) |
+| [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | A batteries-included framework for building web apps | [2026-11-11](daily/2026-11-11.md) |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-11-10](daily/2026-11-10.md) |
-| [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | A context-compression plugin for month-long single sessions … | [2026-11-08](daily/2026-11-08.md) |
 | [react/react](https://github.com/react/react) | The library for web and native user interfaces. | [2026-11-07](daily/2026-11-07.md) |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | Visual Studio Code | [2026-11-07](daily/2026-11-07.md) |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tool… | [2026-11-06](daily/2026-11-06.md) |
@@ -127,8 +129,8 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social ne… | [2026-11-10](daily/2026-11-10.md) |
-| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics… | [2026-11-10](daily/2026-11-10.md) |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social ne… | [2026-11-11](daily/2026-11-11.md) |
+| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics… | [2026-11-11](daily/2026-11-11.md) |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | The Prometheus monitoring system and time series database. | [2026-11-08](daily/2026-11-08.md) |
 | [mbillow/localthings](https://github.com/mbillow/localthings) | Control your Samsung appliances from Home Assistant over you… | [2026-11-08](daily/2026-11-08.md) |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software… | [2026-11-07](daily/2026-11-07.md) |
@@ -160,11 +162,12 @@
 | --- | --- | --- |
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术… | [2026-10-25](daily/2026-10-25.md) |
 
-## 📦 其他（11）
+## 📦 其他（12）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | A collection of projects designed to help developers quickly… | [2026-11-10](daily/2026-11-10.md) |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | A collection of projects designed to help developers quickly… | [2026-11-11](daily/2026-11-11.md) |
+| [we-promise/sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | [2026-11-11](daily/2026-11-11.md) |
 | [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | [2026-11-07](daily/2026-11-07.md) |
 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | [2026-11-07](daily/2026-11-07.md) |
 | [symfony/symfony](https://github.com/symfony/symfony) | The Symfony PHP framework | [2026-11-07](daily/2026-11-07.md) |

@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-11-10
+### 最新一期 · 2026-11-11
 
-- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
 - [meta/astryx](https://github.com/meta/astryx) — An open source design system that's fully customizable and agent ready
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks
-- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) — Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-- [garrytan/gbrain](https://github.com/garrytan/gbrain) — Garry's Opinionated OpenClaw/Hermes Agent Brain
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Browser automation CLI for AI agents
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) — Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- [we-promise/sure](https://github.com/we-promise/sure) — The personal finance app for everyone (by everyone)
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Browser automation CLI for AI agents
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks
+- [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) — A batteries-included framework for building web apps
 
-> 完整 Top 11 见 [当日日报](daily/2026-11-10.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 12 见 [当日日报](daily/2026-11-11.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）

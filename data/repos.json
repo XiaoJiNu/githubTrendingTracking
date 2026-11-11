@@ -704,10 +704,10 @@
     "url": "https://github.com/mattpocock/skills",
     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
     "lang": "Shell",
-    "stars": "317,949",
-    "today_stars": "1,100 stars today",
+    "stars": "321,257",
+    "today_stars": "1,225 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-08"
+    "date": "2026-11-11"
   },
   "pingdotgg/t3code": {
     "name": "pingdotgg/t3code",
@@ -724,10 +724,10 @@
     "url": "https://github.com/anthropics/skills",
     "desc": "Public repository for Agent Skills",
     "lang": "Python",
-    "stars": "191,474",
-    "today_stars": "1,038 stars today",
+    "stars": "192,635",
+    "today_stars": "1,679 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "lightpanda-io/browser": {
     "name": "lightpanda-io/browser",
@@ -1084,10 +1084,10 @@
     "url": "https://github.com/vercel-labs/agent-browser",
     "desc": "Browser automation CLI for AI agents",
     "lang": "Rust",
-    "stars": "48,746",
-    "today_stars": "916 stars today",
+    "stars": "49,454",
+    "today_stars": "780 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "ConardLi/garden-skills": {
     "name": "ConardLi/garden-skills",
@@ -1234,20 +1234,20 @@
     "url": "https://github.com/meta/astryx",
     "desc": "An open source design system that's fully customizable and agent ready",
     "lang": "TypeScript",
-    "stars": "20,966",
-    "today_stars": "3,278 stars today",
+    "stars": "23,673",
+    "today_stars": "3,108 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "sherlock-project/sherlock": {
     "name": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "desc": "Hunt down social media accounts by username across social networks",
     "lang": "Python",
-    "stars": "107,840",
-    "today_stars": "4,267 stars today",
+    "stars": "109,447",
+    "today_stars": "2,393 stars today",
     "category": "系统 / 底层",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "tailwindlabs/tailwindcss": {
     "name": "tailwindlabs/tailwindcss",
@@ -1274,10 +1274,10 @@
     "url": "https://github.com/ranxianglei/billion-context",
     "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
     "lang": "TypeScript",
-    "stars": "4,731",
-    "today_stars": "191 stars today",
+    "stars": "6,553",
+    "today_stars": "375 stars today",
     "category": "Web 开发",
-    "date": "2026-11-08"
+    "date": "2026-11-11"
   },
   "dsx-ai-factory/nvke": {
     "name": "dsx-ai-factory/nvke",
@@ -1294,20 +1294,20 @@
     "url": "https://github.com/google-deepmind/mujoco",
     "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "lang": "C++",
-    "stars": "17,080",
-    "today_stars": "574 stars today",
+    "stars": "17,499",
+    "today_stars": "456 stars today",
     "category": "系统 / 底层",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "anthropics/claude-quickstarts": {
     "name": "anthropics/claude-quickstarts",
     "url": "https://github.com/anthropics/claude-quickstarts",
     "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
     "lang": "Python",
-    "stars": "20,177",
-    "today_stars": "551 stars today",
+    "stars": "20,641",
+    "today_stars": "531 stars today",
     "category": "其他",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "garrytan/gbrain": {
     "name": "garrytan/gbrain",
@@ -1334,9 +1334,39 @@
     "url": "https://github.com/homeassistant-ai/ha-mcp",
     "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
     "lang": "Python",
-    "stars": "6,206",
-    "today_stars": "31 stars today",
+    "stars": "6,836",
+    "today_stars": "790 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
+  },
+  "addyosmani/agent-skills": {
+    "name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "desc": "Production-grade engineering skills for AI coding agents.",
+    "lang": "JavaScript",
+    "stars": "115,394",
+    "today_stars": "465 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-11"
+  },
+  "we-promise/sure": {
+    "name": "we-promise/sure",
+    "url": "https://github.com/we-promise/sure",
+    "desc": "The personal finance app for everyone (by everyone)",
+    "lang": "Ruby",
+    "stars": "12,268",
+    "today_stars": "159 stars today",
+    "category": "其他",
+    "date": "2026-11-11"
+  },
+  "tokio-rs/topcoat": {
+    "name": "tokio-rs/topcoat",
+    "url": "https://github.com/tokio-rs/topcoat",
+    "desc": "A batteries-included framework for building web apps",
+    "lang": "Rust",
+    "stars": "6,979",
+    "today_stars": "192 stars today",
+    "category": "Web 开发",
+    "date": "2026-11-11"
   }
 }
