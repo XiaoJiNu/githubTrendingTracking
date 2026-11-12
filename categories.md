@@ -2,18 +2,20 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（88）
+## 🤖 AI / 机器学习（90）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | [2026-11-12](daily/2026-11-12.md) |
+| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and a… | [2026-11-12](daily/2026-11-12.md) |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere… | [2026-11-12](daily/2026-11-12.md) |
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Configure and automate Home Assistant with Claude, ChatGPT, … | [2026-11-12](daily/2026-11-12.md) |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | [2026-11-12](daily/2026-11-12.md) |
+| [shadcn/improve](https://github.com/shadcn/improve) | Use your most capable model to audit your codebase and write… | [2026-11-12](daily/2026-11-12.md) |
+| [openai/codex-security](https://github.com/openai/codex-security) | OpenAI's Codex Security CLI and TypeScript SDK for finding, … | [2026-11-12](daily/2026-11-12.md) |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-11](daily/2026-11-11.md) |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | [2026-11-11](daily/2026-11-11.md) |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | [2026-11-11](daily/2026-11-11.md) |
-| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and a… | [2026-11-11](daily/2026-11-11.md) |
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Configure and automate Home Assistant with Claude, ChatGPT, … | [2026-11-11](daily/2026-11-11.md) |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | [2026-11-11](daily/2026-11-11.md) |
 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | Garry's Opinionated OpenClaw/Hermes Agent Brain | [2026-11-10](daily/2026-11-10.md) |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere… | [2026-11-10](daily/2026-11-10.md) |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in… | [2026-11-08](daily/2026-11-08.md) |
 | [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | [2026-11-08](daily/2026-11-08.md) |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | [2026-11-08](daily/2026-11-08.md) |
@@ -110,10 +112,11 @@
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🌐 Web 开发（10）
+## 🌐 Web 开发（11）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | （无简介） | [2026-11-12](daily/2026-11-12.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | A context-compression plugin for month-long single sessions … | [2026-11-11](daily/2026-11-11.md) |
 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | A batteries-included framework for building web apps | [2026-11-11](daily/2026-11-11.md) |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-11-10](daily/2026-11-10.md) |
@@ -162,12 +165,13 @@
 | --- | --- | --- |
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术… | [2026-10-25](daily/2026-10-25.md) |
 
-## 📦 其他（12）
+## 📦 其他（13）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [we-promise/sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | [2026-11-12](daily/2026-11-12.md) |
+| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | [2026-11-12](daily/2026-11-12.md) |
 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | A collection of projects designed to help developers quickly… | [2026-11-11](daily/2026-11-11.md) |
-| [we-promise/sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | [2026-11-11](daily/2026-11-11.md) |
 | [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | [2026-11-07](daily/2026-11-07.md) |
 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | [2026-11-07](daily/2026-11-07.md) |
 | [symfony/symfony](https://github.com/symfony/symfony) | The Symfony PHP framework | [2026-11-07](daily/2026-11-07.md) |
