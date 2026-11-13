@@ -62,12 +62,12 @@
   "nvm-sh/nvm": {
     "name": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
-    "desc": "Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本",
-    "lang": "",
-    "stars": "",
-    "today_stars": "",
-    "category": "开发工具",
-    "date": "2026-10-15"
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "lang": "Shell",
+    "stars": "96,066",
+    "today_stars": "63 stars today",
+    "category": "Web 开发",
+    "date": "2026-11-13"
   },
   "rust-lang/rust": {
     "name": "rust-lang/rust",
@@ -384,10 +384,10 @@
     "url": "https://github.com/nodejs/node",
     "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
     "lang": "JavaScript",
-    "stars": "122,941",
-    "today_stars": "66 stars today",
+    "stars": "123,657",
+    "today_stars": "62 stars today",
     "category": "Web 开发",
-    "date": "2026-10-24"
+    "date": "2026-11-13"
   },
   "aws/agent-toolkit-for-aws": {
     "name": "aws/agent-toolkit-for-aws",
@@ -684,10 +684,10 @@
     "url": "https://github.com/CopilotKit/OpenBot",
     "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "lang": "TypeScript",
-    "stars": "9,701",
-    "today_stars": "175 stars today",
+    "stars": "11,869",
+    "today_stars": "298 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-02"
+    "date": "2026-11-13"
   },
   "Donchitos/Claude-Code-Game-Studios": {
     "name": "Donchitos/Claude-Code-Game-Studios",
@@ -1234,10 +1234,10 @@
     "url": "https://github.com/meta/astryx",
     "desc": "An open source design system that's fully customizable and agent ready",
     "lang": "TypeScript",
-    "stars": "25,607",
-    "today_stars": "2,776 stars today",
+    "stars": "26,911",
+    "today_stars": "1,830 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
   "sherlock-project/sherlock": {
     "name": "sherlock-project/sherlock",
@@ -1344,20 +1344,20 @@
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
     "lang": "JavaScript",
-    "stars": "116,184",
-    "today_stars": "787 stars today",
+    "stars": "116,865",
+    "today_stars": "816 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
   "we-promise/sure": {
     "name": "we-promise/sure",
     "url": "https://github.com/we-promise/sure",
     "desc": "The personal finance app for everyone (by everyone)",
     "lang": "Ruby",
-    "stars": "13,243",
-    "today_stars": "1,078 stars today",
+    "stars": "14,195",
+    "today_stars": "967 stars today",
     "category": "其他",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
   "tokio-rs/topcoat": {
     "name": "tokio-rs/topcoat",
@@ -1372,12 +1372,12 @@
   "GoogleChrome/modern-web-guidance-src": {
     "name": "GoogleChrome/modern-web-guidance-src",
     "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-    "desc": "（无简介）",
+    "desc": "Keep your coding agent up to date with the latest web best practices",
     "lang": "TypeScript",
-    "stars": "2,036",
-    "today_stars": "159 stars today",
-    "category": "Web 开发",
-    "date": "2026-11-12"
+    "stars": "3,677",
+    "today_stars": "739 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-13"
   },
   "shadcn/improve": {
     "name": "shadcn/improve",
@@ -1394,10 +1394,10 @@
     "url": "https://github.com/openai/codex-security",
     "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
     "lang": "TypeScript",
-    "stars": "11,952",
-    "today_stars": "52 stars today",
+    "stars": "12,675",
+    "today_stars": "643 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
   "TheAlgorithms/Java": {
     "name": "TheAlgorithms/Java",
@@ -1408,5 +1408,55 @@
     "today_stars": "51 stars today",
     "category": "其他",
     "date": "2026-11-12"
+  },
+  "pookjw/HermesEnabler": {
+    "name": "pookjw/HermesEnabler",
+    "url": "https://github.com/pookjw/HermesEnabler",
+    "desc": "Enable Hermès Watch Faces on any Apple Watch devices",
+    "lang": "Objective-C",
+    "stars": "1,653",
+    "today_stars": "218 stars today",
+    "category": "其他",
+    "date": "2026-11-13"
+  },
+  "QwenLM/qwen-code": {
+    "name": "QwenLM/qwen-code",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "desc": "An open-source AI coding agent that lives in your terminal.",
+    "lang": "TypeScript",
+    "stars": "29,993",
+    "today_stars": "151 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-13"
+  },
+  "ashhart/TensorFold": {
+    "name": "ashhart/TensorFold",
+    "url": "https://github.com/ashhart/TensorFold",
+    "desc": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+    "lang": "Zig",
+    "stars": "2,022",
+    "today_stars": "54 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-13"
+  },
+  "Alishahryar1/free-claude-code": {
+    "name": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "desc": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "lang": "Python",
+    "stars": "69,566",
+    "today_stars": "415 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-13"
+  },
+  "ggml-org/llama.cpp": {
+    "name": "ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "desc": "LLM inference in C/C++",
+    "lang": "C++",
+    "stars": "134,730",
+    "today_stars": "176 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-13"
   }
 }

@@ -2,17 +2,23 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（90）
+## 🤖 AI / 机器学习（95）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their o… | [2026-11-13](daily/2026-11-13.md) |
+| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and a… | [2026-11-13](daily/2026-11-13.md) |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | [2026-11-13](daily/2026-11-13.md) |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | Keep your coding agent up to date with the latest web best p… | [2026-11-13](daily/2026-11-13.md) |
+| [openai/codex-security](https://github.com/openai/codex-security) | OpenAI's Codex Security CLI and TypeScript SDK for finding, … | [2026-11-13](daily/2026-11-13.md) |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | An open-source AI coding agent that lives in your terminal. | [2026-11-13](daily/2026-11-13.md) |
+| [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | LLM Inference Engine for Metal, CUDA and Vulkan. | [2026-11-13](daily/2026-11-13.md) |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCod… | [2026-11-13](daily/2026-11-13.md) |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ | [2026-11-13](daily/2026-11-13.md) |
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | [2026-11-12](daily/2026-11-12.md) |
-| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and a… | [2026-11-12](daily/2026-11-12.md) |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere… | [2026-11-12](daily/2026-11-12.md) |
 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Configure and automate Home Assistant with Claude, ChatGPT, … | [2026-11-12](daily/2026-11-12.md) |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | [2026-11-12](daily/2026-11-12.md) |
 | [shadcn/improve](https://github.com/shadcn/improve) | Use your most capable model to audit your codebase and write… | [2026-11-12](daily/2026-11-12.md) |
-| [openai/codex-security](https://github.com/openai/codex-security) | OpenAI's Codex Security CLI and TypeScript SDK for finding, … | [2026-11-12](daily/2026-11-12.md) |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director… | [2026-11-11](daily/2026-11-11.md) |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | [2026-11-11](daily/2026-11-11.md) |
 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | Garry's Opinionated OpenClaw/Hermes Agent Brain | [2026-11-10](daily/2026-11-10.md) |
@@ -44,7 +50,6 @@
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | [2026-11-03](daily/2026-11-03.md) |
 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | [2026-11-02](daily/2026-11-02.md) |
 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | [2026-11-02](daily/2026-11-02.md) |
-| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their o… | [2026-11-02](daily/2026-11-02.md) |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Lightpanda: the headless browser designed for AI and automat… | [2026-11-02](daily/2026-11-02.md) |
 | [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text applicati… | [2026-11-02](daily/2026-11-02.md) |
 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Open-source AI Security Operations Center: alert fusion, LLM… | [2026-11-02](daily/2026-11-02.md) |
@@ -97,7 +102,7 @@
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | CLI-Anything：让所有软件都能被 Agent 原生操作 | [2026-10-15](daily/2026-10-15.md) |
 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 独立审计 AI Agent：120 秒内回答「Agent 是否在做该做的事」 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🛠 开发工具（10）
+## 🛠 开发工具（9）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
@@ -110,13 +115,13 @@
 | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansibl… | [2026-11-01](daily/2026-11-01.md) |
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alter… | [2026-10-27](daily/2026-10-27.md) |
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node 版本管理器：POSIX 兼容的 bash 脚本，管理多个 Node.js 版本 | [2026-10-15](daily/2026-10-15.md) |
 
 ## 🌐 Web 开发（11）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | （无简介） | [2026-11-12](daily/2026-11-12.md) |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage… | [2026-11-13](daily/2026-11-13.md) |
+| [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-11-13](daily/2026-11-13.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | A context-compression plugin for month-long single sessions … | [2026-11-11](daily/2026-11-11.md) |
 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | A batteries-included framework for building web apps | [2026-11-11](daily/2026-11-11.md) |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that… | [2026-11-10](daily/2026-11-10.md) |
@@ -126,7 +131,6 @@
 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web desi… | [2026-11-06](daily/2026-11-06.md) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | （无简介） | [2026-11-03](daily/2026-11-03.md) |
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘… | [2026-10-29](daily/2026-10-29.md) |
-| [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-10-24](daily/2026-10-24.md) |
 
 ## ⚙️ 系统 / 底层（13）
 
@@ -165,11 +169,12 @@
 | --- | --- | --- |
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术… | [2026-10-25](daily/2026-10-25.md) |
 
-## 📦 其他（13）
+## 📦 其他（14）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [we-promise/sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | [2026-11-12](daily/2026-11-12.md) |
+| [we-promise/sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | [2026-11-13](daily/2026-11-13.md) |
+| [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Enable Hermès Watch Faces on any Apple Watch devices | [2026-11-13](daily/2026-11-13.md) |
 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | [2026-11-12](daily/2026-11-12.md) |
 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | A collection of projects designed to help developers quickly… | [2026-11-11](daily/2026-11-11.md) |
 | [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | [2026-11-07](daily/2026-11-07.md) |

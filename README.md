@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-11-12
+### 最新一期 · 2026-11-13
 
-- [meta/astryx](https://github.com/meta/astryx) — An open source design system that's fully customizable and agent ready
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — （无简介）
-- [shadcn/improve](https://github.com/shadcn/improve) — Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Browser automation CLI for AI agents
-- [we-promise/sure](https://github.com/we-promise/sure) — The personal finance app for everyone (by everyone)
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — Keep your coding agent up to date with the latest web best practices
 - [openai/codex-security](https://github.com/openai/codex-security) — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
-- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) — All Algorithms implemented in Java
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+- [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) — Enable Hermès Watch Faces on any Apple Watch devices
+- [we-promise/sure](https://github.com/we-promise/sure) — The personal finance app for everyone (by everyone)
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) — An open-source AI coding agent that lives in your terminal.
+- [ashhart/TensorFold](https://github.com/ashhart/TensorFold) — LLM Inference Engine for Metal, CUDA and Vulkan.
+- [nodejs/node](https://github.com/nodejs/node) — Node.js JavaScript runtime ✨🐢🚀✨
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.
+- [meta/astryx](https://github.com/meta/astryx) — An open source design system that's fully customizable and agent ready
 
-> 完整 Top 10 见 [当日日报](daily/2026-11-12.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 13 见 [当日日报](daily/2026-11-13.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）
