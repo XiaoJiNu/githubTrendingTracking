@@ -1324,10 +1324,10 @@
     "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
     "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
     "lang": "Python",
-    "stars": "70,767",
-    "today_stars": "278 stars today",
+    "stars": "71,885",
+    "today_stars": "256 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-12"
+    "date": "2026-11-14"
   },
   "homeassistant-ai/ha-mcp": {
     "name": "homeassistant-ai/ha-mcp",
@@ -1354,10 +1354,10 @@
     "url": "https://github.com/we-promise/sure",
     "desc": "The personal finance app for everyone (by everyone)",
     "lang": "Ruby",
-    "stars": "14,195",
-    "today_stars": "967 stars today",
+    "stars": "14,892",
+    "today_stars": "925 stars today",
     "category": "其他",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   "tokio-rs/topcoat": {
     "name": "tokio-rs/topcoat",
@@ -1374,10 +1374,10 @@
     "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
     "desc": "Keep your coding agent up to date with the latest web best practices",
     "lang": "TypeScript",
-    "stars": "3,677",
-    "today_stars": "739 stars today",
+    "stars": "5,097",
+    "today_stars": "1,925 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   "shadcn/improve": {
     "name": "shadcn/improve",
@@ -1394,10 +1394,10 @@
     "url": "https://github.com/openai/codex-security",
     "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
     "lang": "TypeScript",
-    "stars": "12,675",
-    "today_stars": "643 stars today",
+    "stars": "13,279",
+    "today_stars": "751 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   "TheAlgorithms/Java": {
     "name": "TheAlgorithms/Java",
@@ -1458,5 +1458,85 @@
     "today_stars": "176 stars today",
     "category": "AI / 机器学习",
     "date": "2026-11-13"
+  },
+  "alibaba/open-code-review": {
+    "name": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "lang": "Go",
+    "stars": "50,861",
+    "today_stars": "215 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-14"
+  },
+  "backnotprop/plannotator": {
+    "name": "backnotprop/plannotator",
+    "url": "https://github.com/backnotprop/plannotator",
+    "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "lang": "TypeScript",
+    "stars": "10,572",
+    "today_stars": "108 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-14"
+  },
+  "louislam/uptime-kuma": {
+    "name": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript",
+    "stars": "93,968",
+    "today_stars": "71 stars today",
+    "category": "Web 开发",
+    "date": "2026-11-14"
+  },
+  "block/buzz": {
+    "name": "block/buzz",
+    "url": "https://github.com/block/buzz",
+    "desc": "A hive mind communication platform",
+    "lang": "Rust",
+    "stars": "37,363",
+    "today_stars": "97 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-11-14"
+  },
+  "tradermonty/claude-trading-skills": {
+    "name": "tradermonty/claude-trading-skills",
+    "url": "https://github.com/tradermonty/claude-trading-skills",
+    "desc": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "lang": "Python",
+    "stars": "4,314",
+    "today_stars": "69 stars today",
+    "category": "其他",
+    "date": "2026-11-14"
+  },
+  "tailscale/tailcat": {
+    "name": "tailscale/tailcat",
+    "url": "https://github.com/tailscale/tailcat",
+    "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "lang": "Go",
+    "stars": "9,577",
+    "today_stars": "256 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-14"
+  },
+  "Likely7/Veyra-NRVideo": {
+    "name": "Likely7/Veyra-NRVideo",
+    "url": "https://github.com/Likely7/Veyra-NRVideo",
+    "desc": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+    "lang": "C++",
+    "stars": "1,728",
+    "today_stars": "256 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-14"
+  },
+  "ChromeDevTools/chrome-devtools-mcp": {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "desc": "Chrome DevTools for coding agents",
+    "lang": "TypeScript",
+    "stars": "55,694",
+    "today_stars": "67 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-14"
   }
 }
