@@ -2,21 +2,24 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（105）
+## 🤖 AI / 机器学习（108）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | Keep your coding agent up to date with the latest web best p… | [2026-11-15](daily/2026-11-15.md) |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | Keep your coding agent up to date with the latest web best p… | [2026-11-16](daily/2026-11-16.md) |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. H… | [2026-11-16](daily/2026-11-16.md) |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | The workspace to stay in the loop and on top of agents - sha… | [2026-11-16](daily/2026-11-16.md) |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | [2026-11-16](daily/2026-11-16.md) |
+| [dream-num/univer](https://github.com/dream-num/univer) | Build your own AI office with Univer Office SDK. Bring editi… | [2026-11-16](daily/2026-11-16.md) |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents int… | [2026-11-16](daily/2026-11-16.md) |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Self-hosted workflows for coding-agent delivery. Orchestrate… | [2026-11-16](daily/2026-11-16.md) |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch M… | [2026-11-16](daily/2026-11-16.md) |
+| [ggml-org/ggml](https://github.com/ggml-org/ggml) | Tensor library for machine learning | [2026-11-16](daily/2026-11-16.md) |
+| [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Multi-tier framework for evaluating AI agent skills with qua… | [2026-11-16](daily/2026-11-16.md) |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | An open-source AI coding agent that lives in your terminal. | [2026-11-15](daily/2026-11-15.md) |
 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | LLM Inference Engine for Metal, CUDA and Vulkan. | [2026-11-15](daily/2026-11-15.md) |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. H… | [2026-11-15](daily/2026-11-15.md) |
-| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | The workspace to stay in the loop and on top of agents - sha… | [2026-11-15](daily/2026-11-15.md) |
 | [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows vi… | [2026-11-15](daily/2026-11-15.md) |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | [2026-11-15](daily/2026-11-15.md) |
-| [dream-num/univer](https://github.com/dream-num/univer) | Build your own AI office with Univer Office SDK. Bring editi… | [2026-11-15](daily/2026-11-15.md) |
-| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents int… | [2026-11-15](daily/2026-11-15.md) |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick. Viral skill + … | [2026-11-15](daily/2026-11-15.md) |
-| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Self-hosted workflows for coding-agent delivery. Orchestrate… | [2026-11-15](daily/2026-11-15.md) |
 | [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) | A WiFi security auditing software | [2026-11-15](daily/2026-11-15.md) |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere… | [2026-11-14](daily/2026-11-14.md) |
 | [openai/codex-security](https://github.com/openai/codex-security) | OpenAI's Codex Security CLI and TypeScript SDK for finding, … | [2026-11-14](daily/2026-11-14.md) |
@@ -112,10 +115,11 @@
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | CLI-Anything：让所有软件都能被 Agent 原生操作 | [2026-10-15](daily/2026-10-15.md) |
 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 独立审计 AI Agent：120 秒内回答「Agent 是否在做该做的事」 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🛠 开发工具（9）
+## 🛠 开发工具（10）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-… | [2026-11-16](daily/2026-11-16.md) |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial… | [2026-11-10](daily/2026-11-10.md) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, mu… | [2026-11-08](daily/2026-11-08.md) |
 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written … | [2026-11-08](daily/2026-11-08.md) |
@@ -185,8 +189,8 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Claude Code skills for equity investors and traders — market… | [2026-11-16](daily/2026-11-16.md) |
 | [we-promise/sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | [2026-11-15](daily/2026-11-15.md) |
-| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Claude Code skills for equity investors and traders — market… | [2026-11-15](daily/2026-11-15.md) |
 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Enable Hermès Watch Faces on any Apple Watch devices | [2026-11-13](daily/2026-11-13.md) |
 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | [2026-11-12](daily/2026-11-12.md) |
 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | A collection of projects designed to help developers quickly… | [2026-11-11](daily/2026-11-11.md) |
