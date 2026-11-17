@@ -2,20 +2,23 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（108）
+## 🤖 AI / 机器学习（111）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. H… | [2026-11-17](daily/2026-11-17.md) |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | The workspace to stay in the loop and on top of agents - sha… | [2026-11-17](daily/2026-11-17.md) |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | [2026-11-17](daily/2026-11-17.md) |
+| [dream-num/univer](https://github.com/dream-num/univer) | Build your own AI office with Univer Office SDK. Bring editi… | [2026-11-17](daily/2026-11-17.md) |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents int… | [2026-11-17](daily/2026-11-17.md) |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch M… | [2026-11-17](daily/2026-11-17.md) |
+| [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Multi-tier framework for evaluating AI agent skills and plug… | [2026-11-17](daily/2026-11-17.md) |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, Y… | [2026-11-17](daily/2026-11-17.md) |
+| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | PaperOrchestra is a multi-agent framework for automated AI r… | [2026-11-17](daily/2026-11-17.md) |
+| [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Local video editor for coding agents: 42 FFmpeg tools with a… | [2026-11-17](daily/2026-11-17.md) |
 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | Keep your coding agent up to date with the latest web best p… | [2026-11-16](daily/2026-11-16.md) |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. H… | [2026-11-16](daily/2026-11-16.md) |
-| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | The workspace to stay in the loop and on top of agents - sha… | [2026-11-16](daily/2026-11-16.md) |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | [2026-11-16](daily/2026-11-16.md) |
-| [dream-num/univer](https://github.com/dream-num/univer) | Build your own AI office with Univer Office SDK. Bring editi… | [2026-11-16](daily/2026-11-16.md) |
-| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents int… | [2026-11-16](daily/2026-11-16.md) |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Self-hosted workflows for coding-agent delivery. Orchestrate… | [2026-11-16](daily/2026-11-16.md) |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch M… | [2026-11-16](daily/2026-11-16.md) |
 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | Tensor library for machine learning | [2026-11-16](daily/2026-11-16.md) |
-| [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Multi-tier framework for evaluating AI agent skills with qua… | [2026-11-16](daily/2026-11-16.md) |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | An open-source AI coding agent that lives in your terminal. | [2026-11-15](daily/2026-11-15.md) |
 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | LLM Inference Engine for Metal, CUDA and Vulkan. | [2026-11-15](daily/2026-11-15.md) |
 | [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows vi… | [2026-11-15](daily/2026-11-15.md) |
@@ -115,11 +118,12 @@
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | CLI-Anything：让所有软件都能被 Agent 原生操作 | [2026-10-15](daily/2026-10-15.md) |
 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 独立审计 AI Agent：120 秒内回答「Agent 是否在做该做的事」 | [2026-10-15](daily/2026-10-15.md) |
 
-## 🛠 开发工具（10）
+## 🛠 开发工具（11）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-… | [2026-11-16](daily/2026-11-16.md) |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-… | [2026-11-17](daily/2026-11-17.md) |
+| [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Modern Docker Management, Designed for Everyone | [2026-11-17](daily/2026-11-17.md) |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial… | [2026-11-10](daily/2026-11-10.md) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, mu… | [2026-11-08](daily/2026-11-08.md) |
 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written … | [2026-11-08](daily/2026-11-08.md) |
@@ -130,10 +134,12 @@
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alter… | [2026-10-27](daily/2026-10-27.md) |
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
 
-## 🌐 Web 开发（12）
+## 🌐 Web 开发（14）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Histor… | [2026-11-17](daily/2026-11-17.md) |
+| [sveltejs/svelte](https://github.com/sveltejs/svelte) | web development for the rest of us | [2026-11-17](daily/2026-11-17.md) |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | [2026-11-15](daily/2026-11-15.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage… | [2026-11-13](daily/2026-11-13.md) |
 | [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-11-13](daily/2026-11-13.md) |
@@ -189,7 +195,7 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Claude Code skills for equity investors and traders — market… | [2026-11-16](daily/2026-11-16.md) |
+| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Claude Code skills for equity investors and traders — market… | [2026-11-17](daily/2026-11-17.md) |
 | [we-promise/sure](https://github.com/we-promise/sure) | The personal finance app for everyone (by everyone) | [2026-11-15](daily/2026-11-15.md) |
 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Enable Hermès Watch Faces on any Apple Watch devices | [2026-11-13](daily/2026-11-13.md) |
 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | [2026-11-12](daily/2026-11-12.md) |
