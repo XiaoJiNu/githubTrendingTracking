@@ -2,22 +2,25 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（111）
+## 🤖 AI / 机器学习（112）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. H… | [2026-11-17](daily/2026-11-17.md) |
-| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | The workspace to stay in the loop and on top of agents - sha… | [2026-11-17](daily/2026-11-17.md) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, i… | [2026-11-18](daily/2026-11-18.md) |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-11-18](daily/2026-11-18.md) |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. H… | [2026-11-18](daily/2026-11-18.md) |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | The workspace to stay in the loop and on top of agents - sha… | [2026-11-18](daily/2026-11-18.md) |
+| [dream-num/univer](https://github.com/dream-num/univer) | Build your own AI office with Univer Office SDK. Bring editi… | [2026-11-18](daily/2026-11-18.md) |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents int… | [2026-11-18](daily/2026-11-18.md) |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Self-hosted workflows for coding-agent delivery. Orchestrate… | [2026-11-18](daily/2026-11-18.md) |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch M… | [2026-11-18](daily/2026-11-18.md) |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, Y… | [2026-11-18](daily/2026-11-18.md) |
+| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | PaperOrchestra is a multi-agent framework for automated AI r… | [2026-11-18](daily/2026-11-18.md) |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | [2026-11-18](daily/2026-11-18.md) |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | [2026-11-17](daily/2026-11-17.md) |
-| [dream-num/univer](https://github.com/dream-num/univer) | Build your own AI office with Univer Office SDK. Bring editi… | [2026-11-17](daily/2026-11-17.md) |
-| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents int… | [2026-11-17](daily/2026-11-17.md) |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch M… | [2026-11-17](daily/2026-11-17.md) |
 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Multi-tier framework for evaluating AI agent skills and plug… | [2026-11-17](daily/2026-11-17.md) |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, Y… | [2026-11-17](daily/2026-11-17.md) |
-| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | PaperOrchestra is a multi-agent framework for automated AI r… | [2026-11-17](daily/2026-11-17.md) |
 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Local video editor for coding agents: 42 FFmpeg tools with a… | [2026-11-17](daily/2026-11-17.md) |
 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | Keep your coding agent up to date with the latest web best p… | [2026-11-16](daily/2026-11-16.md) |
-| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Self-hosted workflows for coding-agent delivery. Orchestrate… | [2026-11-16](daily/2026-11-16.md) |
 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | Tensor library for machine learning | [2026-11-16](daily/2026-11-16.md) |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | An open-source AI coding agent that lives in your terminal. | [2026-11-15](daily/2026-11-15.md) |
 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | LLM Inference Engine for Metal, CUDA and Vulkan. | [2026-11-15](daily/2026-11-15.md) |
@@ -71,7 +74,6 @@
 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Open-source AI Security Operations Center: alert fusion, LLM… | [2026-11-02](daily/2026-11-02.md) |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent app… | [2026-11-02](daily/2026-11-02.md) |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with poli… | [2026-11-01](daily/2026-11-01.md) |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-11-01](daily/2026-11-01.md) |
 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | Orkas is an open-source (MIT), local-first AI team for your … | [2026-11-01](daily/2026-11-01.md) |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Open Multi-Agent Interactive Classroom — Get an immersive, m… | [2026-11-01](daily/2026-11-01.md) |
 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free and open-source macOS menu bar toolkit. | [2026-11-01](daily/2026-11-01.md) |
@@ -83,7 +85,6 @@
 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex… | [2026-10-29](daily/2026-10-29.md) |
 | [makecindy/cindy](https://github.com/makecindy/cindy) | Consider it done. The open-source AI agent that works out of… | [2026-10-29](daily/2026-10-29.md) |
 | [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) | One has no future if one couldn't teach themself. | [2026-10-29](daily/2026-10-29.md) |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, i… | [2026-10-28](daily/2026-10-28.md) |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate agentic social media scheduling tool 🤖 | [2026-10-28](daily/2026-10-28.md) |
 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | [2026-10-27](daily/2026-10-27.md) |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities… | [2026-10-27](daily/2026-10-27.md) |
@@ -122,8 +123,8 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-… | [2026-11-17](daily/2026-11-17.md) |
-| [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Modern Docker Management, Designed for Everyone | [2026-11-17](daily/2026-11-17.md) |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-… | [2026-11-18](daily/2026-11-18.md) |
+| [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Modern Docker Management, Designed for Everyone | [2026-11-18](daily/2026-11-18.md) |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial… | [2026-11-10](daily/2026-11-10.md) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, mu… | [2026-11-08](daily/2026-11-08.md) |
 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written … | [2026-11-08](daily/2026-11-08.md) |
@@ -134,12 +135,13 @@
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alter… | [2026-10-27](daily/2026-10-27.md) |
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, He… | [2026-10-26](daily/2026-10-26.md) |
 
-## 🌐 Web 开发（14）
+## 🌐 Web 开发（15）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [sveltejs/svelte](https://github.com/sveltejs/svelte) | web development for the rest of us | [2026-11-18](daily/2026-11-18.md) |
+| [cursor/plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | [2026-11-18](daily/2026-11-18.md) |
 | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Histor… | [2026-11-17](daily/2026-11-17.md) |
-| [sveltejs/svelte](https://github.com/sveltejs/svelte) | web development for the rest of us | [2026-11-17](daily/2026-11-17.md) |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | [2026-11-15](daily/2026-11-15.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage… | [2026-11-13](daily/2026-11-13.md) |
 | [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | [2026-11-13](daily/2026-11-13.md) |
