@@ -8,20 +8,20 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-11-18
+### 最新一期 · 2026-11-19
 
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-- [Tencent/LoopForge](https://github.com/Tencent/LoopForge) — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
-- [dream-num/univer](https://github.com/dream-num/univer) — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) — Modern Docker Management, Designed for Everyone
-- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 - [cursor/plugins](https://github.com/cursor/plugins) — Cursor plugin specification and official plugins
-- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) — Modern Docker Management, Designed for Everyone
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+- [astral-sh/uv](https://github.com/astral-sh/uv) — An extremely fast Python package and project manager, written in Rust.
+- [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) — PaperOrchestra is a multi-agent framework for automated AI research paper writing.
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) — web development for the rest of us
 
-> 完整 Top 15 见 [当日日报](daily/2026-11-18.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 19 见 [当日日报](daily/2026-11-19.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）

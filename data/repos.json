@@ -42,12 +42,12 @@
   "HKUDS/CLI-Anything": {
     "name": "HKUDS/CLI-Anything",
     "url": "https://github.com/HKUDS/CLI-Anything",
-    "desc": "CLI-Anything：让所有软件都能被 Agent 原生操作",
-    "lang": "",
-    "stars": "",
-    "today_stars": "",
+    "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+    "lang": "Python",
+    "stars": "60,071",
+    "today_stars": "389 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-10-15"
+    "date": "2026-11-19"
   },
   "ifixai-ai/iFixAi": {
     "name": "ifixai-ai/iFixAi",
@@ -64,10 +64,10 @@
     "url": "https://github.com/nvm-sh/nvm",
     "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
     "lang": "Shell",
-    "stars": "96,066",
-    "today_stars": "63 stars today",
+    "stars": "96,205",
+    "today_stars": "237 stars today",
     "category": "Web 开发",
-    "date": "2026-11-13"
+    "date": "2026-11-19"
   },
   "rust-lang/rust": {
     "name": "rust-lang/rust",
@@ -504,10 +504,10 @@
     "url": "https://github.com/affaan-m/ECC",
     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "lang": "JavaScript",
-    "stars": "305,871",
-    "today_stars": "883 stars today",
+    "stars": "306,805",
+    "today_stars": "1,108 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   "NVIDIA/SkillSpector": {
     "name": "NVIDIA/SkillSpector",
@@ -584,10 +584,10 @@
     "url": "https://github.com/obra/superpowers",
     "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "319,584",
-    "today_stars": "1,917 stars today",
+    "stars": "321,531",
+    "today_stars": "822 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   "HKUDS/DeepTutor": {
     "name": "HKUDS/DeepTutor",
@@ -1594,10 +1594,10 @@
     "url": "https://github.com/google-labs-code/stitch-skills",
     "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
     "lang": "TypeScript",
-    "stars": "10,228",
-    "today_stars": "350 stars today",
+    "stars": "10,526",
+    "today_stars": "365 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   "ggml-org/ggml": {
     "name": "ggml-org/ggml",
@@ -1622,62 +1622,62 @@
   "NVIDIA/SkillEvaluator": {
     "name": "NVIDIA/SkillEvaluator",
     "url": "https://github.com/NVIDIA/SkillEvaluator",
-    "desc": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+    "desc": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
     "lang": "Python",
-    "stars": "3,052",
-    "today_stars": "873 stars today",
+    "stars": "3,924",
+    "today_stars": "312 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-17"
+    "date": "2026-11-19"
   },
   "getarcaneapp/arcane": {
     "name": "getarcaneapp/arcane",
     "url": "https://github.com/getarcaneapp/arcane",
     "desc": "Modern Docker Management, Designed for Everyone",
     "lang": "Go",
-    "stars": "9,506",
-    "today_stars": "618 stars today",
+    "stars": "9,979",
+    "today_stars": "547 stars today",
     "category": "开发工具",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   "DeanChensj/jiangshan-map": {
     "name": "DeanChensj/jiangshan-map",
     "url": "https://github.com/DeanChensj/jiangshan-map",
     "desc": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
     "lang": "JavaScript",
-    "stars": "7,408",
-    "today_stars": "288 stars today",
+    "stars": "8,281",
+    "today_stars": "218 stars today",
     "category": "Web 开发",
-    "date": "2026-11-17"
+    "date": "2026-11-19"
   },
   "mvanhorn/last30days-skill": {
     "name": "mvanhorn/last30days-skill",
     "url": "https://github.com/mvanhorn/last30days-skill",
     "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "lang": "Python",
-    "stars": "69,429",
-    "today_stars": "696 stars today",
+    "stars": "70,345",
+    "today_stars": "1,059 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   "google-research/paper-orchestra": {
     "name": "google-research/paper-orchestra",
     "url": "https://github.com/google-research/paper-orchestra",
     "desc": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
     "lang": "Python",
-    "stars": "3,446",
-    "today_stars": "1,072 stars today",
+    "stars": "4,639",
+    "today_stars": "1,524 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   "sveltejs/svelte": {
     "name": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "desc": "web development for the rest of us",
     "lang": "JavaScript",
-    "stars": "89,686",
-    "today_stars": "477 stars today",
+    "stars": "89,715",
+    "today_stars": "692 stars today",
     "category": "Web 开发",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   "kajisho5/ffmpeg-skill": {
     "name": "kajisho5/ffmpeg-skill",
@@ -1694,10 +1694,10 @@
     "url": "https://github.com/cursor/plugins",
     "desc": "Cursor plugin specification and official plugins",
     "lang": "TypeScript",
-    "stars": "17,002",
-    "today_stars": "201 stars today",
+    "stars": "17,357",
+    "today_stars": "314 stars today",
     "category": "Web 开发",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   "jingyaogong/minimind": {
     "name": "jingyaogong/minimind",
@@ -1708,5 +1708,75 @@
     "today_stars": "192 stars today",
     "category": "AI / 机器学习",
     "date": "2026-11-18"
+  },
+  "astral-sh/uv": {
+    "name": "astral-sh/uv",
+    "url": "https://github.com/astral-sh/uv",
+    "desc": "An extremely fast Python package and project manager, written in Rust.",
+    "lang": "Rust",
+    "stars": "92,340",
+    "today_stars": "258 stars today",
+    "category": "系统 / 底层",
+    "date": "2026-11-19"
+  },
+  "jquery/jquery": {
+    "name": "jquery/jquery",
+    "url": "https://github.com/jquery/jquery",
+    "desc": "jQuery JavaScript Library",
+    "lang": "JavaScript",
+    "stars": "60,077",
+    "today_stars": "266 stars today",
+    "category": "Web 开发",
+    "date": "2026-11-19"
+  },
+  "appwrite/appwrite": {
+    "name": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+    "lang": "TypeScript",
+    "stars": "58,342",
+    "today_stars": "232 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-19"
+  },
+  "openvinotoolkit/openvino": {
+    "name": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "lang": "C++",
+    "stars": "11,421",
+    "today_stars": "24 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-19"
+  },
+  "n8n-io/n8n": {
+    "name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "lang": "TypeScript",
+    "stars": "211,289",
+    "today_stars": "325 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-19"
+  },
+  "solidjs/solid": {
+    "name": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "TypeScript",
+    "stars": "36,705",
+    "today_stars": "40 stars today",
+    "category": "Web 开发",
+    "date": "2026-11-19"
+  },
+  "punkpeye/awesome-mcp-servers": {
+    "name": "punkpeye/awesome-mcp-servers",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "desc": "A collection of MCP servers.",
+    "lang": "",
+    "stars": "98,163",
+    "today_stars": "53 stars today",
+    "category": "AI / 机器学习",
+    "date": "2026-11-19"
   }
 }
