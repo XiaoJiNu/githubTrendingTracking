@@ -2,19 +2,26 @@
 
 > 按用途归类，同一仓库只保留最近一次上榜记录，点击日期可回到当日日报。
 
-## 🤖 AI / 机器学习（116）
+## 🤖 AI / 机器学习（122）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:… | [2026-11-19](daily/2026-11-19.md) |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:… | [2026-11-20](daily/2026-11-20.md) |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-11-20](daily/2026-11-20.md) |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch M… | [2026-11-20](daily/2026-11-20.md) |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, Y… | [2026-11-20](daily/2026-11-20.md) |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in… | [2026-11-20](daily/2026-11-20.md) |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | OpenVINO™ is an open source toolkit for optimizing and deplo… | [2026-11-20](daily/2026-11-20.md) |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Knowledge infrastructure to make your agents smarter. Search… | [2026-11-20](daily/2026-11-20.md) |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copi… | [2026-11-20](daily/2026-11-20.md) |
+| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Avoid common App Store and Google Play rejections. Open play… | [2026-11-20](daily/2026-11-20.md) |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | The open-source agent for CI/CD reliability. | [2026-11-20](daily/2026-11-20.md) |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə… | [2026-11-20](daily/2026-11-20.md) |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、… | [2026-11-20](daily/2026-11-20.md) |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, i… | [2026-11-19](daily/2026-11-19.md) |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-11-19](daily/2026-11-19.md) |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch M… | [2026-11-19](daily/2026-11-19.md) |
 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Multi-tier framework for evaluating AI agent skills and plug… | [2026-11-19](daily/2026-11-19.md) |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, Y… | [2026-11-19](daily/2026-11-19.md) |
 | [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | PaperOrchestra is a multi-agent framework for automated AI r… | [2026-11-19](daily/2026-11-19.md) |
 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | The open-source cloud for agents & devs. Including Auth, Dat… | [2026-11-19](daily/2026-11-19.md) |
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | OpenVINO™ is an open source toolkit for optimizing and deplo… | [2026-11-19](daily/2026-11-19.md) |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabi… | [2026-11-19](daily/2026-11-19.md) |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | [2026-11-19](daily/2026-11-19.md) |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. H… | [2026-11-18](daily/2026-11-18.md) |
@@ -22,7 +29,6 @@
 | [dream-num/univer](https://github.com/dream-num/univer) | Build your own AI office with Univer Office SDK. Bring editi… | [2026-11-18](daily/2026-11-18.md) |
 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | AG-UI: the Agent-User Interaction Protocol. Bring Agents int… | [2026-11-18](daily/2026-11-18.md) |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Self-hosted workflows for coding-agent delivery. Orchestrate… | [2026-11-18](daily/2026-11-18.md) |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | [2026-11-18](daily/2026-11-18.md) |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | [2026-11-17](daily/2026-11-17.md) |
 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Local video editor for coding agents: 42 FFmpeg tools with a… | [2026-11-17](daily/2026-11-17.md) |
 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | Keep your coding agent up to date with the latest web best p… | [2026-11-16](daily/2026-11-16.md) |
@@ -127,8 +133,8 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-… | [2026-11-20](daily/2026-11-20.md) |
 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Modern Docker Management, Designed for Everyone | [2026-11-19](daily/2026-11-19.md) |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-… | [2026-11-18](daily/2026-11-18.md) |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial… | [2026-11-10](daily/2026-11-10.md) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, mu… | [2026-11-08](daily/2026-11-08.md) |
 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written … | [2026-11-08](daily/2026-11-08.md) |
@@ -143,10 +149,10 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [cursor/plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | [2026-11-20](daily/2026-11-20.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage… | [2026-11-19](daily/2026-11-19.md) |
 | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Histor… | [2026-11-19](daily/2026-11-19.md) |
 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | web development for the rest of us | [2026-11-19](daily/2026-11-19.md) |
-| [cursor/plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | [2026-11-19](daily/2026-11-19.md) |
 | [jquery/jquery](https://github.com/jquery/jquery) | jQuery JavaScript Library | [2026-11-19](daily/2026-11-19.md) |
 | [solidjs/solid](https://github.com/solidjs/solid) | A declarative, efficient, and flexible JavaScript library fo… | [2026-11-19](daily/2026-11-19.md) |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | [2026-11-15](daily/2026-11-15.md) |
@@ -161,10 +167,12 @@
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | （无简介） | [2026-11-03](daily/2026-11-03.md) |
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘… | [2026-10-29](daily/2026-10-29.md) |
 
-## ⚙️ 系统 / 底层（15）
+## ⚙️ 系统 / 底层（17）
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
+| [nginx/nginx](https://github.com/nginx/nginx) | The official NGINX Open Source repository. | [2026-11-20](daily/2026-11-20.md) |
+| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | The only downloader you need. 下载器的集大成者。 | [2026-11-20](daily/2026-11-20.md) |
 | [astral-sh/uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, writte… | [2026-11-19](daily/2026-11-19.md) |
 | [block/buzz](https://github.com/block/buzz) | A hive mind communication platform | [2026-11-14](daily/2026-11-14.md) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social ne… | [2026-11-11](daily/2026-11-11.md) |
