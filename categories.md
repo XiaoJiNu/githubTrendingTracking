@@ -6,18 +6,18 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:… | [2026-11-21](daily/2026-11-21.md) |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-11-21](daily/2026-11-21.md) |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch M… | [2026-11-21](daily/2026-11-21.md) |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, Y… | [2026-11-21](daily/2026-11-21.md) |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in… | [2026-11-21](daily/2026-11-21.md) |
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | OpenVINO™ is an open source toolkit for optimizing and deplo… | [2026-11-21](daily/2026-11-21.md) |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Knowledge infrastructure to make your agents smarter. Search… | [2026-11-21](daily/2026-11-21.md) |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copi… | [2026-11-21](daily/2026-11-21.md) |
-| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Avoid common App Store and Google Play rejections. Open play… | [2026-11-21](daily/2026-11-21.md) |
-| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | The open-source agent for CI/CD reliability. | [2026-11-21](daily/2026-11-21.md) |
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə… | [2026-11-21](daily/2026-11-21.md) |
-| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、… | [2026-11-21](daily/2026-11-21.md) |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:… | [2026-11-22](daily/2026-11-22.md) |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodolo… | [2026-11-22](daily/2026-11-22.md) |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch M… | [2026-11-22](daily/2026-11-22.md) |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, Y… | [2026-11-22](daily/2026-11-22.md) |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in… | [2026-11-22](daily/2026-11-22.md) |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | OpenVINO™ is an open source toolkit for optimizing and deplo… | [2026-11-22](daily/2026-11-22.md) |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Knowledge infrastructure to make your agents smarter. Search… | [2026-11-22](daily/2026-11-22.md) |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copi… | [2026-11-22](daily/2026-11-22.md) |
+| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Avoid common App Store and Google Play rejections. Open play… | [2026-11-22](daily/2026-11-22.md) |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | The open-source agent for CI/CD reliability. | [2026-11-22](daily/2026-11-22.md) |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə… | [2026-11-22](daily/2026-11-22.md) |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、… | [2026-11-22](daily/2026-11-22.md) |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, i… | [2026-11-19](daily/2026-11-19.md) |
 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Multi-tier framework for evaluating AI agent skills and plug… | [2026-11-19](daily/2026-11-19.md) |
 | [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | PaperOrchestra is a multi-agent framework for automated AI r… | [2026-11-19](daily/2026-11-19.md) |
@@ -133,7 +133,7 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-… | [2026-11-21](daily/2026-11-21.md) |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-… | [2026-11-22](daily/2026-11-22.md) |
 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Modern Docker Management, Designed for Everyone | [2026-11-19](daily/2026-11-19.md) |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial… | [2026-11-10](daily/2026-11-10.md) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, mu… | [2026-11-08](daily/2026-11-08.md) |
@@ -149,7 +149,7 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [cursor/plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | [2026-11-21](daily/2026-11-21.md) |
+| [cursor/plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | [2026-11-22](daily/2026-11-22.md) |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage… | [2026-11-19](daily/2026-11-19.md) |
 | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) \| Interactive Histor… | [2026-11-19](daily/2026-11-19.md) |
 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | web development for the rest of us | [2026-11-19](daily/2026-11-19.md) |
@@ -171,8 +171,8 @@
 
 | 仓库 | 一句话简介 | 上榜日期 |
 | --- | --- | --- |
-| [nginx/nginx](https://github.com/nginx/nginx) | The official NGINX Open Source repository. | [2026-11-21](daily/2026-11-21.md) |
-| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | The only downloader you need. 下载器的集大成者。 | [2026-11-21](daily/2026-11-21.md) |
+| [nginx/nginx](https://github.com/nginx/nginx) | The official NGINX Open Source repository. | [2026-11-22](daily/2026-11-22.md) |
+| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | The only downloader you need. 下载器的集大成者。 | [2026-11-22](daily/2026-11-22.md) |
 | [astral-sh/uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, writte… | [2026-11-19](daily/2026-11-19.md) |
 | [block/buzz](https://github.com/block/buzz) | A hive mind communication platform | [2026-11-14](daily/2026-11-14.md) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social ne… | [2026-11-11](daily/2026-11-11.md) |
