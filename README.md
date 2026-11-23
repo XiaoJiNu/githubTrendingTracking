@@ -8,7 +8,7 @@
 - 🗂 分类索引：[`categories.md`](./categories.md) （按用途归类，找工具直接查这里）
 
 <!-- LATEST:START -->
-### 最新一期 · 2026-11-22
+### 最新一期 · 2026-11-23
 
 - [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 - [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
@@ -18,10 +18,10 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [nginx/nginx](https://github.com/nginx/nginx) — The official NGINX Open Source repository.
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-> 完整 Top 16 见 [当日日报](daily/2026-11-22.md)，分类索引见 [categories.md](categories.md)。
+> 完整 Top 16 见 [当日日报](daily/2026-11-23.md)，分类索引见 [categories.md](categories.md)。
 <!-- LATEST:END -->
 
 ## 内容设计（为什么这样组织）
