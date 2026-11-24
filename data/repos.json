@@ -44,10 +44,10 @@
     "url": "https://github.com/HKUDS/CLI-Anything",
     "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
     "lang": "Python",
-    "stars": "63,066",
-    "today_stars": "699 stars today",
+    "stars": "64,170",
+    "today_stars": "790 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "ifixai-ai/iFixAi": {
     "name": "ifixai-ai/iFixAi",
@@ -584,10 +584,10 @@
     "url": "https://github.com/obra/superpowers",
     "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "324,462",
-    "today_stars": "788 stars today",
+    "stars": "325,499",
+    "today_stars": "840 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "HKUDS/DeepTutor": {
     "name": "HKUDS/DeepTutor",
@@ -1594,10 +1594,10 @@
     "url": "https://github.com/google-labs-code/stitch-skills",
     "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
     "lang": "TypeScript",
-    "stars": "12,056",
-    "today_stars": "494 stars today",
+    "stars": "12,476",
+    "today_stars": "422 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "ggml-org/ggml": {
     "name": "ggml-org/ggml",
@@ -1612,12 +1612,12 @@
   "elementalsouls/Claude-BugHunter": {
     "name": "elementalsouls/Claude-BugHunter",
     "url": "https://github.com/elementalsouls/Claude-BugHunter",
-    "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
     "lang": "Python",
-    "stars": "18,510",
-    "today_stars": "1,716 stars today",
+    "stars": "20,502",
+    "today_stars": "2,029 stars today",
     "category": "开发工具",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "NVIDIA/SkillEvaluator": {
     "name": "NVIDIA/SkillEvaluator",
@@ -1654,10 +1654,10 @@
     "url": "https://github.com/mvanhorn/last30days-skill",
     "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "lang": "Python",
-    "stars": "73,005",
-    "today_stars": "668 stars today",
+    "stars": "73,758",
+    "today_stars": "797 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "google-research/paper-orchestra": {
     "name": "google-research/paper-orchestra",
@@ -1694,20 +1694,20 @@
     "url": "https://github.com/cursor/plugins",
     "desc": "Cursor plugin specification and official plugins",
     "lang": "TypeScript",
-    "stars": "18,590",
-    "today_stars": "294 stars today",
+    "stars": "18,971",
+    "today_stars": "397 stars today",
     "category": "Web 开发",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "jingyaogong/minimind": {
     "name": "jingyaogong/minimind",
     "url": "https://github.com/jingyaogong/minimind",
     "desc": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
     "lang": "Python",
-    "stars": "69,062",
-    "today_stars": "473 stars today",
+    "stars": "69,865",
+    "today_stars": "828 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "astral-sh/uv": {
     "name": "astral-sh/uv",
@@ -1744,10 +1744,10 @@
     "url": "https://github.com/openvinotoolkit/openvino",
     "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
     "lang": "C++",
-    "stars": "12,165",
-    "today_stars": "158 stars today",
+    "stars": "12,362",
+    "today_stars": "184 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "n8n-io/n8n": {
     "name": "n8n-io/n8n",
@@ -1784,79 +1784,79 @@
     "url": "https://github.com/firecrawl/firecrawl",
     "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
     "lang": "TypeScript",
-    "stars": "207,328",
-    "today_stars": "915 stars today",
+    "stars": "208,347",
+    "today_stars": "924 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "nginx/nginx": {
     "name": "nginx/nginx",
     "url": "https://github.com/nginx/nginx",
     "desc": "The official NGINX Open Source repository.",
     "lang": "C",
-    "stars": "32,942",
-    "today_stars": "163 stars today",
+    "stars": "33,116",
+    "today_stars": "174 stars today",
     "category": "系统 / 底层",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "cathrynlavery/diagram-design": {
     "name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
     "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "lang": "HTML",
-    "stars": "70,548",
-    "today_stars": "518 stars today",
+    "stars": "71,377",
+    "today_stars": "620 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "mjmirza/app-store-compliance": {
     "name": "mjmirza/app-store-compliance",
     "url": "https://github.com/mjmirza/app-store-compliance",
     "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
     "lang": "Shell",
-    "stars": "4,296",
-    "today_stars": "621 stars today",
+    "stars": "5,330",
+    "today_stars": "761 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "Tracer-Cloud/opensre": {
     "name": "Tracer-Cloud/opensre",
     "url": "https://github.com/Tracer-Cloud/opensre",
     "desc": "The open-source agent for CI/CD reliability.",
     "lang": "Python",
-    "stars": "14,555",
-    "today_stars": "399 stars today",
+    "stars": "14,982",
+    "today_stars": "436 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "toeverything/AFFiNE": {
     "name": "toeverything/AFFiNE",
     "url": "https://github.com/toeverything/AFFiNE",
     "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
     "lang": "TypeScript",
-    "stars": "77,022",
-    "today_stars": "542 stars today",
+    "stars": "77,643",
+    "today_stars": "595 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "XiaoYouChR/Ghost-Downloader-3": {
     "name": "XiaoYouChR/Ghost-Downloader-3",
     "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
     "desc": "The only downloader you need. 下载器的集大成者。",
     "lang": "Python",
-    "stars": "15,689",
-    "today_stars": "701 stars today",
+    "stars": "16,868",
+    "today_stars": "1,087 stars today",
     "category": "系统 / 底层",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   "zhouxiaoka/autoclip": {
     "name": "zhouxiaoka/autoclip",
     "url": "https://github.com/zhouxiaoka/autoclip",
     "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
     "lang": "Python",
-    "stars": "13,883",
-    "today_stars": "641 stars today",
+    "stars": "14,956",
+    "today_stars": "907 stars today",
     "category": "AI / 机器学习",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   }
 }
